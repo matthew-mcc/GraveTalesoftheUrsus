@@ -893,3 +893,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.11-21.04.50:019][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2023.03.11-21.04.50:021][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.11-21.04.50:646][  2]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.11-21.07.20:857][733]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.11-21.07.20:865][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-21.07.20:868][733]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 11, 2023, 7:07:20 a.m.)
+[2023.03.11-21.07.20:871][733]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.11-21.07.20:872][733]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.11-21.07.20:873][733]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.11-21.07.20:890][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016370s)
+[2023.03.11-21.07.20:892][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.11-21.07.20:893][733]LogPlayLevel: PIE: World Init took: (0.002885s)
+[2023.03.11-21.07.20:893][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019921s)
+[2023.03.11-21.07.20:902][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.03.11-21.07.20:905][733]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.11-21.07.20:905][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-21.07.20:905][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-21.07.20:905][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-21.07.20:906][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-21.07.20:906][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-21.07.20:906][733]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.11-21.07.20:911][733]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-21.07.20:911][733]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-21.07.20:938][733]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.11-21.07.20:938][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-21.07.20:938][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-21.07.20:938][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-21.07.20:939][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.11-21.07.20:939][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.11-21.07.20:939][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.11-21.07.20:941][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.11-21.07.20:941][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.11-21.07.20:941][733]LogInit: FAudioDevice initialized.
+[2023.03.11-21.07.20:941][733]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.03.11-21.07.20:982][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.11-21.07.20:988][733]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.11-14.07.20
+[2023.03.11-21.07.20:989][733]LogWorld: Bringing up level for play took: 0.002855
+[2023.03.11-21.07.20:990][733]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.03.11-21.07.21:003][733]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.11-21.07.21:005][733]PIE: Server logged in
+[2023.03.11-21.07.21:008][733]PIE: Play in editor total start time 0.146 seconds.
+[2023.03.11-21.07.33:528][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-21.07.33:528][224]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.11-21.07.33:529][224]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-21.07.33:529][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-21.07.33:536][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-21.07.33:538][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-21.07.33:543][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-21.07.33:543][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-21.07.33:544][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-21.07.33:548][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-21.07.33:551][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.03.11-21.07.33:595][226]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.03.11-21.07.34:737][363]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2023.03.11-21.07.34:742][363]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2023.03.11-21.07.35:164][414]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2023.03.11-21.07.35:165][414]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2023.03.11-21.07.38:522][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2023.03.11-21.07.39:473][889]Cmd: DELETE
+[2023.03.11-21.07.39:473][889]Cmd: ACTOR DELETE
+[2023.03.11-21.07.39:479][889]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.11-21.07.39:485][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.03.11-21.07.39:486][889]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.11-21.07.45:949][655]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.11-21.07.45:976][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.11-21.07.46:002][655]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap3750B3244B987D8E7AFC0D8E7CA8493F.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.11-21.07.46:134][655]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_BuiltDataA0139FA2413E94732675F99FB2730DD7.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.11-21.07.46:150][655]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.11-21.07.46:150][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.11-21.07.46:151][655]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
