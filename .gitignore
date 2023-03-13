@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Breathing_Idle.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run__1_.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run_Strafe__2_.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run_Strafe__3_.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Strafe.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Strafe__1_.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Walk.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Walk__1_.uasset
+GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Idle.uasset
