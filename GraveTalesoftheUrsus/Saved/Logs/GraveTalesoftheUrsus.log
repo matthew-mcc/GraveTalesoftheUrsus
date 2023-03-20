@@ -1031,3 +1031,50 @@ Make sure 'Action_One_C' has been compiled for  Set PlayerCharacter
 [2023.03.20-20.19.57:175][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2023.03.20-20.19.57:177][269]LogEditorActor: Deleted 1 Actors (0.027 secs)
 [2023.03.20-20.19.58:114][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.20-20.21.45:662][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.20-20.21.46:345][983]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.20-20.21.46:718][  4]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2023.03.20-20.22.42:380][ 59]Cmd: DELETE
+[2023.03.20-20.22.42:380][ 59]Cmd: ACTOR DELETE
+[2023.03.20-20.22.42:382][ 59]LogEditorActor: Deleted Actor: Boss_BP_C
+[2023.03.20-20.22.42:398][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.03.20-20.22.42:405][ 59]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.03.20-20.23.22:315][463]LogMetaData: Removing '/Game/AI/Monster/character_Skeleton.character_Skeleton' ref from Metadata '/Game/Monster/character_Skeleton.PackageMetaData'
+[2023.03.20-20.23.22:318][463]LogMetaData: Removing '/Game/AI/Monster/character.character' ref from Metadata '/Game/Monster/character.PackageMetaData'
+[2023.03.20-20.23.22:387][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/character_PhysicsAssetD38D0A85499E50DE3BA6208D54893FE7.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/character_PhysicsAsset.uasset'
+[2023.03.20-20.23.22:389][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/character_Skeleton1735E19849442FC6CA36E69FA74DF606.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/character_Skeleton.uasset'
+[2023.03.20-20.23.22:396][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Monster/bear_normal" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_normal.uasset" SILENT=true
+[2023.03.20-20.23.22:612][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/bear_normalB85D3310457A9146A983E1B31131CF77.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_normal.uasset'
+[2023.03.20-20.23.22:618][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Monster/bear_specular" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_specular.uasset" SILENT=true
+[2023.03.20-20.23.22:840][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/bear_specular6EDEA0784992DCE985F150BC28A955F3.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_specular.uasset'
+[2023.03.20-20.23.22:846][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Monster/bear_diffuse" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_diffuse.uasset" SILENT=true
+[2023.03.20-20.23.23:061][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/bear_diffuse0ACB98FF4B790977F475F0B94F4151FA.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/bear_diffuse.uasset'
+[2023.03.20-20.23.23:085][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Monster/warrok_MAT" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/warrok_MAT.uasset" SILENT=true
+[2023.03.20-20.23.23:091][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/warrok_MAT22907B2A4969FFA287E1A69242CE93BA.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/warrok_MAT.uasset'
+[2023.03.20-20.23.23:113][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Monster/character" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/character.uasset" SILENT=true
+[2023.03.20-20.23.23:146][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/character457EDCD44DAC24EBC8FB1B99768F8704.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Monster/character.uasset'
+[2023.03.20-20.23.23:265][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.20-20.23.23:278][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.20-20.23.23:291][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.20-20.23.23:303][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.20-20.23.23:314][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.20-20.23.23:326][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.20-20.23.23:338][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.20-20.23.23:356][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.20-20.23.23:368][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.20-20.23.23:415][463]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP51A688CB4F3150AEE940EC860A7260A9.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.20-20.23.23:474][463]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.20-20.23.23:474][463]LogContentValidation: Display: Validating PhysicsAsset /Game/AI/Monster/character_PhysicsAsset.character_PhysicsAsset
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Skeleton /Game/AI/Monster/character_Skeleton.character_Skeleton
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Texture2D /Game/AI/Monster/bear_normal.bear_normal
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Texture2D /Game/AI/Monster/bear_specular.bear_specular
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Texture2D /Game/AI/Monster/bear_diffuse.bear_diffuse
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Material /Game/AI/Monster/warrok_MAT.warrok_MAT
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating SkeletalMesh /Game/AI/Monster/character.character
+[2023.03.20-20.23.23:475][463]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.23.25:181][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.20-20.23.28:923][684]Cmd: DELETE
+[2023.03.20-20.23.28:923][684]Cmd: ACTOR DELETE
+[2023.03.20-20.23.28:925][684]LogEditorActor: Deleted Actor: Boss_BP_C
+[2023.03.20-20.23.28:961][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.03.20-20.23.28:964][684]LogEditorActor: Deleted 1 Actors (0.040 secs)
