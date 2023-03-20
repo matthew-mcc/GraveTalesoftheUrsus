@@ -965,3 +965,69 @@ Make sure 'Action_One_C' has been compiled for  Set PlayerCharacter
 [2023.03.20-20.15.42:935][747]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
 [2023.03.20-20.15.46:010][875]LogSlate: Window 'Message Log' being destroyed
 [2023.03.20-20.15.46:037][875]LogSlate: Window 'Message Log' being destroyed
+[2023.03.20-20.18.08:419][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BT.Boss_BT
+[2023.03.20-20.18.08:571][962]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.03.20-20.18.09:177][962]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.20-20.18.09:228][962]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.09:228][962]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.09:231][962]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.18.09:293][963]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.20-20.18.09:358][963]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.09:358][963]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.09:360][963]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.18.19:523][414]LogSlate: Window 'Boss_BT' being destroyed
+[2023.03.20-20.18.19:558][414]LogSlate: Window 'Boss_BT' being destroyed
+[2023.03.20-20.18.19:560][414]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.18.19:560][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.18.41:255][108]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.20-20.18.41:267][108]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.20-20.18.41:278][108]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.20-20.18.48:615][436]LogContentBrowser: Attempting asset rename: NewBlueprint -> Boss_BP
+[2023.03.20-20.18.48:620][436]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.20-20.18.48:692][436]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.48:692][436]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.18.48:695][436]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.18.50:416][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.18.50:739][512]LogRenderer: Reallocating scene render targets to support 948x508 Format 10 NumSamples 1 (Frame:1).
+[2023.03.20-20.19.20:972][762]BlueprintLog: New page: Compile Boss_BP
+[2023.03.20-20.19.21:027][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.03.20-20.19.21:131][762]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.21:131][762]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.21:133][762]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.19.22:085][797]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BPC066E3624CC396E0F2B69C8E8C76A10A.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.20-20.19.22:110][797]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.20-20.19.22:110][797]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.19.23:130][842]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.20-20.19.23:162][842]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.20-20.19.23:166][842]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.19.23:166][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.19.24:865][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.19.25:178][914]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v6' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.03.20-20.19.26:681][979]LogSlate: Window 'Document' being destroyed
+[2023.03.20-20.19.26:706][979]LogSlate: Window 'Document' being destroyed
+[2023.03.20-20.19.28:110][ 43]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.20-20.19.28:141][ 43]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.19.28:142][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.19.28:208][ 43]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.19.47:086][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.20-20.19.47:205][853]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.47:205][853]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.47:207][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.19.51:872][ 51]BlueprintLog: New page: Compile Boss_BP
+[2023.03.20-20.19.51:926][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.03.20-20.19.52:008][ 51]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.52:008][ 51]LogEditorClassViewer: Warning: Class /Game/AI/SelectorNode.SelectorNode_C has parent /Game/AI/Node.Node_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.19.52:013][ 51]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.20-20.19.52:652][ 74]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BPD8BDC0CA41607680EA756CA1E11EE4F2.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.20-20.19.52:674][ 74]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.20-20.19.52:674][ 74]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.20-20.19.53:804][126]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.20-20.19.53:836][126]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.20-20.19.53:839][126]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.19.53:839][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.19.57:141][269]Cmd: DELETE
+[2023.03.20-20.19.57:142][269]Cmd: ACTOR DELETE
+[2023.03.20-20.19.57:153][269]LogEditorActor: Deleted Actor: Boss_BP_C
+[2023.03.20-20.19.57:175][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.20-20.19.57:177][269]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.03.20-20.19.58:114][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
