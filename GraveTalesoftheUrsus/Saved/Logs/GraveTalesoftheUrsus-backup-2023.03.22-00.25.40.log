@@ -1,0 +1,1414 @@
+﻿Log file open, 03/21/23 16:49:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GraveTalesoftheUrsus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261387
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-1240P, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.21-22.49.24:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.21-22.49.24:934][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.21-22.49.24:934][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.21-22.49.24:934][  0]LogHAL: Display: Platform has ~ 16 GB [16734552064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.21-22.49.24:934][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Scalability.ini]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.21-22.49.24:934][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.21-22.49.24:935][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.21-22.49.24:935][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.21-22.49.24:935][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.21-22.49.24:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Engine.ini]
+[2023.03.21-22.49.24:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Config/Windows/Editor.ini]
+[2023.03.21-22.49.24:935][  0]LogInit: Computer: PORKBUNS
+[2023.03.21-22.49.24:935][  0]LogInit: User: Kewan
+[2023.03.21-22.49.24:935][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.03.21-22.49.24:935][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.21-22.49.24:936][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2023.03.21-22.49.24:936][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.21-22.49.24:936][  0]LogMemory: Process Physical Memory: 150.35 MB used, 150.35 MB peak
+[2023.03.21-22.49.24:936][  0]LogMemory: Process Virtual Memory: 129.02 MB used, 129.02 MB peak
+[2023.03.21-22.49.24:936][  0]LogMemory: Physical Memory: 10328.90 MB used,  5630.41 MB free, 15959.31 MB total
+[2023.03.21-22.49.24:936][  0]LogMemory: Virtual Memory: 134211400.00 MB used,  6324.89 MB free, 134217728.00 MB total
+[2023.03.21-22.49.24:942][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.21-22.49.24:961][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.21-22.49.24:961][  0]LogInit: Using OS detected language (en-GB).
+[2023.03.21-22.49.24:961][  0]LogInit: Using OS detected locale (en-CA).
+[2023.03.21-22.49.24:963][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.03.21-22.49.25:109][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.21-22.49.25:127][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.21-22.49.25:143][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.21-22.49.25:143][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.21-22.49.25:246][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.21-22.49.25:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.21-22.49.25:251][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.21-22.49.25:251][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.21-22.49.25:251][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.21-22.49.25:373][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.03.21-22.49.25:373][  0]LogD3D11RHI:       128/0/7979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:       0/0/7979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     DeviceId    : 46a6
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     SubSysId    : 30228086
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     Revision    : 000c
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     SharedSystemMemory : 8367276032 bytes
+[2023.03.21-22.49.25:376][  0]LogD3D11RHI:     AdapterLuid : 0 71618
+[2023.03.21-22.49.25:383][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.21-22.49.25:383][  0]LogD3D11RHI:     GPU DeviceId: 0x46a6 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.21-22.49.25:383][  0]LogWindows: EnumDisplayDevices:
+[2023.03.21-22.49.25:383][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2023.03.21-22.49.25:384][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.03.21-22.49.25:384][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.03.21-22.49.25:385][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.03.21-22.49.25:385][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.21-22.49.25:385][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2023.03.21-22.49.25:385][  0]LogD3D11RHI:   Driver Version: 30.0.101.1369 (internal:30.0.101.1369, unified:30.0.101.1369)
+[2023.03.21-22.49.25:385][  0]LogD3D11RHI:      Driver Date: 2-3-2022
+[2023.03.21-22.49.25:385][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     DeviceId    : 46a6
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     SubSysId    : 30228086
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     Revision    : 000c
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     SharedSystemMemory : 8367276032 bytes
+[2023.03.21-22.49.25:391][  0]LogD3D11RHI:     AdapterLuid : 0 71618
+[2023.03.21-22.49.25:490][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.21-22.49.25:504][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.21-22.49.25:520][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2023.03.21-22.49.25:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.21-22.49.25:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.21-22.49.25:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.21-22.49.25:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.21-22.49.25:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.21-22.49.25:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.21-22.49.25:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.21-22.49.25:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.21-22.49.25:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.21-22.49.25:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.21-22.49.25:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.21-22.49.25:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.21-22.49.25:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.21-22.49.25:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.21-22.49.25:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.21-22.49.25:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.21-22.49.25:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.21-22.49.25:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.21-22.49.25:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.21-22.49.25:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.21-22.49.25:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.21-22.49.25:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.21-22.49.25:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.21-22.49.25:955][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.21-22.49.25:961][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.21-22.49.25:986][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.21-22.49.26:014][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.21-22.49.26:014][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Intermediate/Shaders/WorkingDirectory/20448/).
+[2023.03.21-22.49.26:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kewan/AppData/Local/Temp/UnrealShaderWorkingDir/97BC888B42A8A8107D2BECB8FEF61FE5/'.
+[2023.03.21-22.49.26:014][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.21-22.49.26:014][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.21-22.49.26:014][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.21-22.49.26:612][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/Kewan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kewan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.21-22.49.26:659][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.21-22.49.26:672][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.21-22.49.26:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.21-22.49.26:672][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.21-22.49.26:683][  0]LogDerivedDataCache: Speed tests for C:/Users/Kewan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.21-22.49.26:683][  0]LogDerivedDataCache: Display: Performance to C:/Users/Kewan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=155.30MBs, RandomWriteSpeed=221.95MBs. Assigned SpeedClass 'Local'
+[2023.03.21-22.49.26:684][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kewan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.21-22.49.26:684][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.21-22.49.26:684][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.21-22.49.26:718][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.21-22.49.26:718][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.21-22.49.26:745][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2023.03.21-22.49.26:914][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.21-22.49.26:914][  0]LogInit: Active device profile: [000001FCC1596B00][000001FCBFFCEC00 49] Windows
+[2023.03.21-22.49.26:914][  0]LogInit: Profiles: [000001FCC1596B00][000001FCBFFCEC00 49] Windows, [000001FCC1542300][000001FCBFFD2D40 49] WindowsNoEditor, [000001FCC1595E00][000001FCBFFDAEC0 49] WindowsServer, [000001FCC1542F00][000001FCBFFDF040 49] WindowsClient, [000001FCC1596800][000001FCBFFE31C0 49] IOS, [000001FCC1542500][000001FCBFFE7340 49] iPadAir, [000001FCC1594700][000001FCBFFEB4C0 49] iPadAir2, [000001FCC14DDA00][000001FCBFFF3780 49] IPadPro, [000001FCC14DDB00][000001FCBFFEF7C0 49] iPadAir3, [000001FCC1543700][000001FCBFFF7940 49] iPadAir4, [000001FCC14DEA00][000001FCBFFFBAC0 49] iPadMini2, [000001FCC1540C00][000001FCBFFFE0C0 49] iPadMini3, [000001FCC14DCB00][000001FCC0002240 49] iPadMini4, [000001FCC1543800][000001FCC00063C0 49] iPadMini5, [000001FCC1509300][000001FCC000E680 49] iPhone6, [000001FCC1509400][000001FCC000A6C0 49] iPodTouch6, [000001FCC1595700][000001FCC001E980 49] iPhone7, [000001FCC1595500][000001FCC001A9C0 49] iPodTouch7, [000001FCC14DCE00][000001FCC0022B40 49] iPhone5S, [000001FCC1597F00][000001FCBFFD6C80 49] iPhone6Plus, [000001FCC14DFD00][000001FCB6CA0DC0 49] iPhone6S, [000001FCC1595A00][000001FCB6CACF00 49] iPhone6SPlus, [000001FCC1595400][000001FCB6D09080 49] iPhone7Plus, [000001FCC1508700][000001FCB6D0D200 49] iPhoneSE, [000001FCC1594E00][000001FCB6D11380 49] iPhone8, [000001FCC1508D00][000001FCC2425500 49] iPhone8Plus, [000001FCC1509A00][000001FCC2429680 49] iPhoneX, [000001FCC14DF300][000001FCC2431800 49] iPhoneXS, [000001FCC150A300][000001FCC2435980 49] iPhoneXSMax, [000001FCC14DE800][000001FCC243DB00 49] iPhoneXR, [000001FCC1509500][000001FCBFB8C100 49] iPhone11, [000001FCC14DF700][000001FCBFB90280 49] iPhone11Pro, [000001FCC150B100][000001FCC3810400 49] iPhone11ProMax, [000001FCC14DC500][000001FCC3814580 49] iPhoneSE2, [000001FCC150AB00][000001FCC383E700 49] iPhone12Mini, [000001FCC14DEE00][000001FCC3842880 49] iPhone12, [000001FCC150B400][000001FCC384AA00 49] iPhone12Pro, [000001FCC1597B00][000001FCBFBC8B80 49] iPhone12ProMax, [000001FCC1508500][000001FCB4FACD00 49] iPadPro105, [000001FCC1597300][000001FCB6D04E40 49] iPadPro129, [000001FCC150AA00][000001FCB4FBAF80 49] iPadPro97, [000001FCC1595200][000001FCB4FBF0C0 49] iPadPro2_129, [000001FCC150B200][000001FCC22E7240 49] iPad5, [000001FCC1594100][000001FCB4FE33C0 49] iPad6, [000001FCC1509600][000001FCC22EB540 49] iPad7, [000001FCC1595D00][000001FCC22EF6C0 49] iPad8, [000001FCC1509900][000001FCC22F3840 49] iPadPro11, [000001FCC1597000][000001FCC22F79C0 49] iPadPro2_11, [000001FCC1508A00][000001FCC22FBB40 49] iPadPro3_129, [000001FCC1595100][000001FCBEB5E140 49] iPadPro4_129, [000001FCC150B000][000001FCBEB622C0 49] AppleTV, [000001FCC1594200][000001FCBEB66440 49] AppleTV4K, [000001FCC1509C00][000001FCBEB6A5C0 49] TVOS, [000001FCC1595800][000001FCBEB6E740 49] Mac, [000001FCC1508300][000001FCC240A8C0 49] MacClient, [000001FCC1595000][000001FCC2416A40 49] MacNoEditor, [000001FCC1509F00][000001FCC241ABC0 49] MacServer, [000001FCC1594B00][000001FCBA140D40 49] Linux, [000001FCC1509000][000001FCBA318EC0 49] LinuxAArch64, [000001FCC1597400][000001FCC22E3000 49] LinuxNoEditor, [000001FCC150A700][000001FCBA33F140 49] LinuxAArch64NoEditor, [000001FCC1594D00][000001FCBA343280 49] LinuxClient, [000001FCC150BB00][000001FCBA3473C0 49] LinuxAArch64Client, [000001FCC1595C00][000001FCBA34F540 49] LinuxServer, [000001FCC150B800][000001FCBA3536C0 49] LinuxAArch64Server, [000001FCC1594A00][000001FCC3529840 49] Android, [000001FCC1508E00][000001FCC352D9C0 49] Android_Low, [000001FCC1594800][000001FCC3531B40 49] Android_Mid, [000001FCC150A400][000001FCC3534140 49] Android_High, [000001FCC1597900][000001FCC35382C0 49] Android_Default, [000001FCC150B900][000001FCC3BF6440 49] Android_Adreno4xx, [000001FCC1596A00][000001FCC22925C0 49] Android_Adreno5xx_Low, [000001FCC150A600][000001FCC2296740 49] Android_Adreno5xx, [000001FCC1597600][000001FCC229A8C0 49] Android_Adreno6xx, [000001FCC150A000][000001FCC35ACA40 49] Android_Adreno6xx_Vulkan, [000001FCC1596D00][000001FCC35B8BC0 49] Android_Mali_T6xx, [000001FCC150B300][000001FCC35BCD40 49] Android_Mali_T7xx, [000001FCC1594500][000001FCBA100EC0 49] Android_Mali_T8xx, [000001FCC1508600][000001FCBA105040 49] Android_Mali_G71, [000001FCC1597C00][000001FCBA34B180 49] Android_Mali_G72, [000001FCC150BC00][000001FCBA1092C0 49] Android_Mali_G72_Vulkan, [000001FCC14DE100][000001FCBA111400 49] Android_Mali_G76, [000001FCC1542200][000001FCBA115540 49] Android_Mali_G76_Vulkan, [000001FCC14DE300][000001FCBA11D6C0 49] Android_Mali_G77, [000001FCC1540200][000001FCBA127840 49] Android_Mali_G77_Vulkan, [000001FCC14DD500][000001FCBA12B9C0 49] Android_Mali_G78, [000001FCC1542700][000001FCC3C2FB40 49] Android_Mali_G78_Vulkan, [000001FCC14DD400][000001FCB4FC2140 49] Android_Mali_G710, [000001FCC1540F00][000001FCB4FC62C0 49] Android_Mali_G710_Vulkan, [000001FCC14DD300][000001FCB4FCA440 49] Android_Vulkan_SM5, [000001FCC1542800][000001FCB4FCE5C0 49] Android_PowerVR_G6xxx, [000001FCC14DFC00][000001FCB4FDE740 49] Android_PowerVR_GT7xxx, [000001FCC1541D00][000001FCC3C488C0 49] Android_PowerVR_GE8xxx, [000001FCC14DF800][000001FCC3C4CA40 49] Android_PowerVR_GM9xxx, [000001FCC1540400][000001FCC3C50BC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001FCC14DC600][000001FCC3C54D40 49] Android_TegraK1, [000001FCC1540B00][000001FCC3C58EC0 49] Android_Unknown_Vulkan, [000001FCC14DC300][000001FCC3C5D040 49] Lumin, [000001FCC1541700][000001FCC38471C0 49] Lumin_Desktop, [000001FCC14DDC00][000001FCBFB95340 49] HoloLens, 
+[2023.03.21-22.49.27:008][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.21-22.49.27:008][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.21-22.49.27:008][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.21-22.49.27:008][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.21-22.49.27:008][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.21-22.49.27:020][  0]LogNetVersion: GraveTalesoftheUrsus 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2672176242)
+[2023.03.21-22.49.27:367][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.21-22.49.27:419][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.21-22.49.27:423][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.21-22.49.27:423][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.21-22.49.27:423][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.21-22.49.27:556][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.21-22.49.27:560][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.21-22.49.27:577][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A39D9D2348776E841ED3E8A09D545E51 | Instance: 50932F4E483400448BC2ACACBDFFC295 (PORKBUNS-20448).
+[2023.03.21-22.49.27:606][  0]LogPython: Using Python 3.7.7
+[2023.03.21-22.49.28:198][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.28:198][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.28:201][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.28:203][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.28:210][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.28:212][  0]LogUProjectInfo: Found projects:
+[2023.03.21-22.49.28:222][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.28:222][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.28:223][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.28:401][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.21-22.49.28:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.21-22.49.28:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.21-22.49.28:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.21-22.49.28:592][  0]LogOcInput: OculusInput pre-init called
+[2023.03.21-22.49.28:784][  0]LogCollectionManager: Loaded 0 collections in 0.001640 seconds
+[2023.03.21-22.49.28:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Collections/' took 0.00s
+[2023.03.21-22.49.28:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/Developers/Kewan/Collections/' took 0.00s
+[2023.03.21-22.49.28:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/Collections/' took 0.00s
+[2023.03.21-22.49.28:836][  0]LogEngine: Initializing Engine...
+[2023.03.21-22.49.28:838][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.21-22.49.28:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.21-22.49.28:838][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.21-22.49.28:839][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.21-22.49.28:928][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.21-22.49.28:936][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.21-22.49.28:937][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.21-22.49.28:941][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.21-22.49.28:941][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-22.49.28:942][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-22.49.28:942][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-22.49.28:954][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-22.49.28:954][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-22.49.28:971][  0]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.03.21-22.49.28:971][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-22.49.28:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-22.49.28:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-22.49.28:974][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-22.49.28:974][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-22.49.28:974][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.21-22.49.28:975][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-22.49.28:975][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-22.49.28:975][  0]LogInit: FAudioDevice initialized.
+[2023.03.21-22.49.28:975][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.21-22.49.28:975][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.21-22.49.29:023][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Kewan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.21-22.49.29:023][  0]LogInit: Texture streaming: Enabled
+[2023.03.21-22.49.29:033][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.21-22.49.29:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.21-22.49.29:037][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.21-22.49.29:039][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.21-22.49.29:064][  0]LogInit: Transaction tracking system initialized
+[2023.03.21-22.49.29:081][  0]BlueprintLog: New page: Editor Load
+[2023.03.21-22.49.29:138][  0]LocalizationService: Localization service is disabled
+[2023.03.21-22.49.29:159][  0]TimingProfiler: Initialize
+[2023.03.21-22.49.29:159][  0]TimingProfiler: OnSessionChanged
+[2023.03.21-22.49.29:159][  0]LoadingProfiler: Initialize
+[2023.03.21-22.49.29:159][  0]LoadingProfiler: OnSessionChanged
+[2023.03.21-22.49.29:159][  0]NetworkingProfiler: Initialize
+[2023.03.21-22.49.29:159][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.21-22.49.29:159][  0]MemoryProfiler: Initialize
+[2023.03.21-22.49.29:159][  0]MemoryProfiler: OnSessionChanged
+[2023.03.21-22.49.29:207][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.29:208][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.29:209][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.21-22.49.29:278][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.21-22.49.29:278][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.21-22.49.29:438][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/' took 0.00s
+[2023.03.21-22.49.29:616][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.21-22.49.29:619][  0]SourceControl: Source control is disabled
+[2023.03.21-22.49.29:619][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.624
+[2023.03.21-22.49.29:619][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.21-22.49.29:619][  0]LightingResults: New page: Lighting Build
+[2023.03.21-22.49.29:620][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.49.29:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.49.29:620][  0]MapCheck: New page: Map Check
+[2023.03.21-22.49.29:620][  0]LightingResults: New page: Lighting Build
+[2023.03.21-22.49.29:625][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-22.49.29:628][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.21-22.49.29:759][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.03.21-22.49.29:760][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.21-22.49.29:766][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.21-22.49.29:784][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.21-22.49.29:784][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.21-22.49.29:784][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2023.03.21-22.49.29:784][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.166
+[2023.03.21-22.49.29:786][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.791
+[2023.03.21-22.49.29:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.49.29:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.49.29:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.49.29:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.49.29:980][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3822 classes and 928 folders.
+[2023.03.21-22.49.29:982][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.21-22.49.29:983][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.21-22.49.29:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.21-22.49.29:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.21-22.49.29:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.21-22.49.29:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.21-22.49.29:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.21-22.49.29:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.21-22.49.29:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.21-22.49.29:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.21-22.49.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.21-22.49.29:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.21-22.49.29:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.21-22.49.29:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.21-22.49.29:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.21-22.49.29:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.21-22.49.30:029][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.21-22.49.30:030][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.03.21-22.49.30:069][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.21-22.49.30:070][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.21-22.49.30:072][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.21-22.49.30:079][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.21-22.49.30:168][  0]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.49.30:188][  0]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.49.30:233][  0]LogRenderer: Reallocating scene render targets to support 948x440 Format 10 NumSamples 1 (Frame:1).
+[2023.03.21-22.49.30:307][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.21-22.49.30:307][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.03.21-22.49.30:307][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.03.21-22.49.30:307][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.21-22.49.30:307][  0]LogLoad: (Engine Initialization) Total time: 6.31 seconds
+[2023.03.21-22.49.30:307][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.21-22.49.30:341][  0]LogAssetRegistry: Asset discovery search completed in 3.5971 seconds
+[2023.03.21-22.49.30:346][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.03.21-22.49.30:348][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.21-22.49.30:522][  0]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.49.30:529][  0]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.49.30:575][  2]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.21-22.49.31:954][ 45]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.49.32:117][ 45]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.03.21-22.49.32:665][ 45]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.21-22.49.32:724][ 45]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.49.32:727][ 45]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.49.32:820][ 46]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.49.32:823][ 46]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.50.47:855][511]LogRenderer: Reallocating scene render targets to support 948x516 Format 10 NumSamples 1 (Frame:1).
+[2023.03.21-22.52.25:266][424]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.21-22.52.25:306][424]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.21-22.52.25:309][424]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.52.25:309][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.52.38:748][520]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.21-22.52.38:766][520]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.21-22.52.38:777][520]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.21-22.52.39:960][573]LogContentBrowser: Attempting asset rename: NewBlueprint -> Test
+[2023.03.21-22.52.39:974][573]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.21-22.52.40:047][573]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.52.40:051][573]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.52.41:144][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.52.57:413][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.53.30:127][721]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-22.53.32:698][821]BlueprintLog: New page: Compile Test
+[2023.03.21-22.53.32:708][821]LogBlueprint: Error: [AssetLog] /Game/AI/Ai_Controller_Tree/Test.Test (no disk path found): [Compiler] COMPILER ERROR: failed building connection with 'Pawn Object Reference is not compatible with Self Object Reference.' at  AI MoveTo
+[2023.03.21-22.53.32:709][821]LogBlueprint: Error: [AssetLog] /Game/AI/Ai_Controller_Tree/Test.Test (no disk path found): [Compiler] BaseAsyncTask: Internal connection error.  AI MoveTo
+[2023.03.21-22.53.32:736][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.21-22.53.32:804][821]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.53.32:807][821]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.53.32:825][821]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.21-22.53.38:522][ 62]BlueprintLog: New page: Compile Test
+[2023.03.21-22.53.38:548][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.21-22.53.38:625][ 62]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.53.38:627][ 62]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.53.39:483][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ai_Controller_Tree/Test" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset" SILENT=true
+[2023.03.21-22.53.39:486][ 95]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Test085B07E24205AA30649DF49FE9DD0DAB.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset'
+[2023.03.21-22.53.39:513][ 95]AssetCheck: New page: Asset Save: Test
+[2023.03.21-22.53.39:513][ 95]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.54.24:184][965]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.54.24:187][965]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Test  to imply a specific type.
+[2023.03.21-22.54.24:187][965]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.03.21-22.54.24:226][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.03.21-22.54.24:324][965]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.54.24:326][965]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.54.34:246][399]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.54.34:249][399]LogBlueprint: Warning: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] 'Test' does not inherit from 'Boss BP' ( Cast To Test  would always fail).
+[2023.03.21-22.54.34:294][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.21-22.54.34:385][399]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.54.34:387][399]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.54.41:790][723]Cmd: TRANSACTION UNDO
+[2023.03.21-22.54.41:800][723]LogEditorTransaction: Undo Create Pin Link
+[2023.03.21-22.54.43:394][780]Cmd: TRANSACTION UNDO
+[2023.03.21-22.54.43:394][780]LogEditorTransaction: Undo Create Pin Link
+[2023.03.21-22.54.48:591][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.03.21-22.54.49:645][976]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.21-22.54.49:744][976]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.54.49:744][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.54.49:766][976]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.21-22.54.49:771][976]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.54.49:771][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.54.49:808][976]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.54.50:500][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.21-22.54.50:515][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.21-22.54.50:529][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.21-22.54.58:975][ 41]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.21-22.54.58:984][ 41]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.21-22.54.58:993][ 41]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.21-22.55.00:304][ 98]LogContentBrowser: Attempting asset rename: NewBlueprint -> Test
+[2023.03.21-22.55.00:312][ 98]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.21-22.55.00:385][ 98]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.55.00:388][ 98]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.55.01:623][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.55.42:945][868]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.56.09:185][978]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.56.09:189][978]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Test  to imply a specific type.
+[2023.03.21-22.56.09:189][978]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.03.21-22.56.09:228][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.21-22.56.09:370][978]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.56.09:373][978]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.56.25:720][680]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.56.25:765][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.03.21-22.56.25:898][680]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.56.25:902][680]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.56.27:691][750]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP063C790B44E8B300796F06A471FFDCAA.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-22.56.27:727][750]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-22.56.27:727][750]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.57.00:098][115]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.57.00:153][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.21-22.57.00:285][115]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.57.00:289][115]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.57.00:932][138]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP8360837247ABD5B776E6DC82A4286856.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-22.57.00:949][138]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-22.57.00:949][138]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.57.02:774][217]BlueprintLog: New page: Compile Test
+[2023.03.21-22.57.02:828][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.21-22.57.02:957][217]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.57.02:962][217]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.57.04:149][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ai_Controller_Tree/Test" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset" SILENT=true
+[2023.03.21-22.57.04:164][256]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/TestAC263C064E776F07EF90D6839406A874.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset'
+[2023.03.21-22.57.04:186][256]AssetCheck: New page: Asset Save: Test
+[2023.03.21-22.57.04:186][256]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.57.26:795][223]BlueprintLog: New page: Compile Test
+[2023.03.21-22.57.26:841][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.21-22.57.26:984][223]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.57.26:988][223]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.57.27:309][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ai_Controller_Tree/Test" FILE="../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset" SILENT=true
+[2023.03.21-22.57.27:322][235]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/TestB4BE456E46E6AF998F027F8913A092CC.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Test.uasset'
+[2023.03.21-22.57.27:334][235]AssetCheck: New page: Asset Save: Test
+[2023.03.21-22.57.27:334][235]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.57.29:530][335]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-22.57.29:544][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-22.57.29:545][335]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 21, 2023, 10:57:29 a.m.)
+[2023.03.21-22.57.29:547][335]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.21-22.57.29:549][335]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.21-22.57.29:549][335]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-22.57.29:562][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012350s)
+[2023.03.21-22.57.29:562][335]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.21-22.57.29:563][335]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2023.03.21-22.57.29:563][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013750s)
+[2023.03.21-22.57.29:585][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.21-22.57.29:585][335]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-22.57.29:585][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-22.57.29:585][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-22.57.29:586][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-22.57.29:586][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-22.57.29:586][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-22.57.29:586][335]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-22.57.29:588][335]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-22.57.29:588][335]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-22.57.29:602][335]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.03.21-22.57.29:603][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-22.57.29:603][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-22.57.29:603][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-22.57.29:603][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-22.57.29:603][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-22.57.29:603][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.21-22.57.29:605][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-22.57.29:605][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-22.57.29:605][335]LogInit: FAudioDevice initialized.
+[2023.03.21-22.57.29:605][335]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.03.21-22.57.29:624][335]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.21-22.57.29:627][335]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.21-16.57.29
+[2023.03.21-22.57.29:627][335]LogWorld: Bringing up level for play took: 0.002162
+[2023.03.21-22.57.29:627][335]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.21-22.57.29:633][335]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.21-22.57.29:633][335]PIE: Server logged in
+[2023.03.21-22.57.29:634][335]PIE: Play in editor total start time 0.09 seconds.
+[2023.03.21-22.57.29:729][335]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.57.31:334][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.57.31:334][398]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-22.57.31:334][398]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.57.31:334][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.31:344][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-22.57.31:348][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.31:370][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-22.57.31:370][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-22.57.31:371][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-22.57.31:373][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.57.31:389][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.03.21-22.57.31:406][399]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.21-22.57.34:163][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.03.21-22.57.35:496][518]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.21-22.57.35:597][518]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.57.35:598][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.35:635][518]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.21-22.57.35:641][518]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.21-22.57.35:641][518]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.57.35:641][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.35:670][518]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/Ai_Controller_Tree/Test.Test
+[2023.03.21-22.57.35:856][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.03.21-22.57.35:900][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.03.21-22.57.35:910][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.21-22.57.35:922][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.21-22.57.36:654][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.57.43:262][779]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-22.57.43:298][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.21-22.57.43:409][779]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-22.57.43:413][779]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-22.57.43:964][800]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP3E76860440D0AAE1F65A558BF2B0563B.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-22.57.43:987][800]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-22.57.43:988][800]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-22.57.45:922][883]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-22.57.45:928][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-22.57.45:928][883]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 21, 2023, 10:57:45 a.m.)
+[2023.03.21-22.57.45:928][883]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-22.57.45:939][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010805s)
+[2023.03.21-22.57.45:939][883]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.21-22.57.45:940][883]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2023.03.21-22.57.45:940][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012153s)
+[2023.03.21-22.57.45:958][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.21-22.57.45:960][883]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-22.57.45:960][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-22.57.45:960][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-22.57.45:960][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-22.57.45:960][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-22.57.45:960][883]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-22.57.45:963][883]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-22.57.45:963][883]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-22.57.45:975][883]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.03.21-22.57.45:975][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-22.57.45:975][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-22.57.45:975][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-22.57.45:976][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-22.57.45:976][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-22.57.45:976][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.21-22.57.45:976][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-22.57.45:976][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-22.57.45:976][883]LogInit: FAudioDevice initialized.
+[2023.03.21-22.57.45:977][883]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.03.21-22.57.45:988][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.21-22.57.45:991][883]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.21-16.57.45
+[2023.03.21-22.57.45:992][883]LogWorld: Bringing up level for play took: 0.001936
+[2023.03.21-22.57.45:992][883]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.21-22.57.45:995][883]PIE: Server logged in
+[2023.03.21-22.57.45:996][883]PIE: Play in editor total start time 0.07 seconds.
+[2023.03.21-22.57.47:454][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.57.47:454][943]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-22.57.47:455][943]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-22.57.47:455][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.47:463][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-22.57.47:466][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-22.57.47:484][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-22.57.47:484][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-22.57.47:485][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-22.57.47:488][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-22.57.47:490][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.21-22.57.47:507][944]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.21-23.00.02:812][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.21-23.00.02:829][578]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto18ADEB6A3415C07F1D29B3AB5EA854738.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.03.21-23.00.02:833][578]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2023.03.21-23.00.02:833][578]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.03.21-23.00.02:833][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([2] browsable assets)...
+[2023.03.21-23.00.02:855][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.00.02:855][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.21-23.00.02:869][578]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto17D67CA5B495D00E1B9CCC3978B7F809C.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto1.uasset'
+[2023.03.21-23.00.02:870][578]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.03.21-23.00.16:283][804]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.21-23.02.24:325][810]LogEditorTransaction: Undo Add New Function
+[2023.03.21-23.13.07:069][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.21-23.13.07:086][217]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto2DA593EF049E779F3A665C4B8985306CD.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2023.03.21-23.13.07:088][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2023.03.21-23.13.07:088][217]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.03.21-23.13.07:088][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.21-23.13.07:107][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.13.07:126][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.13.07:126][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.21-23.13.07:136][217]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto26FDF470A493C346F85C6BDA430226E7B.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto2.uasset'
+[2023.03.21-23.13.07:137][217]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.03.21-23.15.44:521][671]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.15.44:524][671]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To NavigationData  to imply a specific type.
+[2023.03.21-23.15.44:524][671]LogBlueprint: Error: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.03.21-23.15.44:572][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.21-23.15.44:689][671]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.15.44:693][671]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.15.50:731][923]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.15.50:735][923]LogBlueprint: Warning: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] 'Navigation Data' does not inherit from 'Boss BP' ( Cast To NavigationData  would always fail).
+[2023.03.21-23.15.50:770][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.21-23.15.50:875][923]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.15.50:879][923]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.17.01:528][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.21-23.17.04:518][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.21-23.17.10:523][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.21-23.18.09:699][536]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.18.09:702][536]LogBlueprint: Warning: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] 'Recast Nav Mesh' does not inherit from 'Boss BP' ( Cast To RecastNavMesh  would always fail).
+[2023.03.21-23.18.09:749][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.21-23.18.09:856][536]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.18.09:860][536]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.23.08:090][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.03.21-23.23.08:103][388]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto34AB5E6BC4284E85F1934C2A0825F2E46.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2023.03.21-23.23.08:105][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.033
+[2023.03.21-23.23.08:105][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2023.03.21-23.23.08:105][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.21-23.23.08:130][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.23.08:154][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.23.08:154][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.21-23.23.08:169][388]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto3E9C759DA4678A7BDC4F515A429921D9F.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto3.uasset'
+[2023.03.21-23.23.08:170][388]LogFileHelpers: Auto-saving content packages took 0.065
+[2023.03.21-23.24.49:417][501]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-23.25.07:787][243]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.25.07:833][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.21-23.25.07:942][243]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.25.07:946][243]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.25.08:432][259]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP0376946F47412EFE0DCDB2964E3F8F1E.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-23.25.08:449][259]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-23.25.08:449][259]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-23.25.14:165][513]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-23.25.14:171][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-23.25.14:171][513]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 21, 2023, 11:25:14 a.m.)
+[2023.03.21-23.25.14:172][513]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-23.25.14:184][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012222s)
+[2023.03.21-23.25.14:185][513]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.21-23.25.14:186][513]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2023.03.21-23.25.14:186][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014052s)
+[2023.03.21-23.25.14:206][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.03.21-23.25.14:208][513]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-23.25.14:208][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-23.25.14:208][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-23.25.14:209][513]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-23.25.14:209][513]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-23.25.14:209][513]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-23.25.14:209][513]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-23.25.14:211][513]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-23.25.14:211][513]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-23.25.14:224][513]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.03.21-23.25.14:224][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-23.25.14:224][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-23.25.14:224][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-23.25.14:225][513]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-23.25.14:225][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-23.25.14:225][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.21-23.25.14:226][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-23.25.14:226][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-23.25.14:226][513]LogInit: FAudioDevice initialized.
+[2023.03.21-23.25.14:226][513]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.03.21-23.25.14:233][513]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.21-23.25.14:236][513]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.21-17.25.14
+[2023.03.21-23.25.14:236][513]LogWorld: Bringing up level for play took: 0.002302
+[2023.03.21-23.25.14:237][513]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.03.21-23.25.14:245][513]PIE: Server logged in
+[2023.03.21-23.25.14:246][513]PIE: Play in editor total start time 0.075 seconds.
+[2023.03.21-23.25.15:696][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-23.25.15:696][574]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.21-23.25.15:696][574]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-23.25.15:696][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-23.25.15:707][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-23.25.15:715][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-23.25.15:728][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-23.25.15:728][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-23.25.15:729][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-23.25.15:732][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-23.25.15:735][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.21-23.25.15:759][575]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.21-23.28.56:032][657]LogSlate: Took 0.005385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.21-23.28.57:797][753]LogEditorTransaction: Undo Add In Parameter
+[2023.03.21-23.34.52:067][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.21-23.34.52:085][453]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto4B62DEBD14A5EEAB93598CF86F15B88FA.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.03.21-23.34.52:086][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2023.03.21-23.34.52:086][453]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.03.21-23.34.52:087][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.21-23.34.52:106][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.34.52:126][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.34.52:126][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.21-23.34.52:143][453]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto4DD23748247A20D2B038464A0479A6D0B.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto4.uasset'
+[2023.03.21-23.34.52:145][453]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.03.21-23.44.58:512][111]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.21-23.45.25:303][795]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.21-23.45.50:736][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.21-23.45.50:740][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2023.03.21-23.45.50:741][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.21-23.45.50:762][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.45.50:784][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.21-23.45.50:784][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.21-23.45.50:798][917]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto56BBFD76041F41A32D7BCC7AA0EA08943.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto5.uasset'
+[2023.03.21-23.45.50:799][917]LogFileHelpers: Auto-saving content packages took 0.059
+[2023.03.21-23.46.22:240][479]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.03.21-23.46.22:253][479]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.03.21-23.46.25:611][677]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Health
+[2023.03.21-23.46.25:614][677]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.03.21-23.46.27:205][761]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AI/Ai_Controller_Tree/Health.Health
+[2023.03.21-23.47.53:662][ 84]LogSlate: Window 'Health' being destroyed
+[2023.03.21-23.47.53:691][ 84]LogSlate: Window 'Health' being destroyed
+[2023.03.21-23.47.53:696][ 84]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-23.47.53:697][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-23.47.55:778][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.21-23.47.56:991][181]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.21-23.47.57:099][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.21-23.48.00:571][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-23.52.27:446][407]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.52.27:490][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.03.21-23.52.27:630][407]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.52.27:635][407]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.52.28:238][429]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BPEC63277F4CA380AD3DA0C2BB4F277006.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-23.52.28:257][429]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-23.52.28:257][429]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-23.54.01:175][693]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.03.21-23.54.01:188][693]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.03.21-23.54.05:932][908]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> HealthStatus
+[2023.03.21-23.54.05:934][908]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.03.21-23.54.06:728][942]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AI/Ai_Controller_Tree/HealthStatus.HealthStatus
+[2023.03.21-23.54.37:011][ 84]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/HealthStatusC52F7DCC468475F6D63C208E09F86305.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/HealthStatus.uasset'
+[2023.03.21-23.54.37:024][ 84]AssetCheck: New page: Asset Save: HealthStatus
+[2023.03.21-23.54.37:024][ 84]LogContentValidation: Display: Validating UserDefinedEnum /Game/AI/Ai_Controller_Tree/HealthStatus.HealthStatus
+[2023.03.21-23.57.38:252][503]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.57.38:262][503]LogBlueprint: Warning: [AssetLog] C:\Users\Kewan\Github\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] Can't parse default value '0' for  Health Status . Property: Health Status.
+[2023.03.21-23.57.38:305][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.03.21-23.57.38:487][503]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.57.38:495][503]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.57.39:056][519]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP1E68D1604AAD96B5C7942DA215A22D8A.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-23.57.39:093][519]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-23.57.39:093][519]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-23.58.24:503][798]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.03.21-23.58.28:578][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.21-23.58.28:599][853]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto699AC03584382E4B844EA4E959A456941.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.03.21-23.58.28:601][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2023.03.21-23.58.28:601][853]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.03.21-23.59.13:667][232]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.59.13:720][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.03.21-23.59.13:884][232]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.59.13:892][232]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.59.15:508][298]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.59.15:560][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.03.21-23.59.15:712][298]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.59.15:718][298]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.59.16:115][310]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP6CE0B47345458271034216995A16B922.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-23.59.16:127][310]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-23.59.16:127][310]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.21-23.59.33:710][ 41]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2023.03.21-23.59.33:710][ 41]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] AI MoveTo  cannot be placed in function graph
+[2023.03.21-23.59.33:711][ 41]BlueprintLog: New page: Convert Event to Function
+[2023.03.21-23.59.33:711][ 41]BlueprintLog: Error: AI MoveTo  cannot be placed in function graph
+[2023.03.21-23.59.36:665][144]LogEditorTransaction: Undo Convert event to function
+[2023.03.21-23.59.44:846][414]BlueprintLog: New page: Compile Boss_BP
+[2023.03.21-23.59.44:896][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.03.21-23.59.45:094][414]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-23.59.45:100][414]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.21-23.59.45:912][436]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP693AE80F46FAF244D5F088B9839141D1.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.21-23.59.45:932][436]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.21-23.59.45:932][436]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.22-00.01.15:601][281]BlueprintLog: New page: Compile Boss_BP
+[2023.03.22-00.01.15:653][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.03.22-00.01.15:853][281]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-00.01.15:859][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.22-00.01.16:257][296]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.22-00.01.16:266][296]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.22-00.01.16:267][296]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.03.22-00.01.16:297][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.22-00.01.16:298][296]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2023.03.22-00.01.16:298][296]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 21, 2023, 12:01:16 p.m.)
+[2023.03.22-00.01.16:298][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.22-00.01.16:315][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017058s)
+[2023.03.22-00.01.16:317][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.22-00.01.16:317][296]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2023.03.22-00.01.16:317][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019038s)
+[2023.03.22-00.01.16:342][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.03.22-00.01.16:344][296]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-00.01.16:344][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-00.01.16:344][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-00.01.16:345][296]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-00.01.16:345][296]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-00.01.16:345][296]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-00.01.16:345][296]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-00.01.16:350][296]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-00.01.16:350][296]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-00.01.16:374][296]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.03.22-00.01.16:374][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-00.01.16:374][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-00.01.16:374][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-00.01.16:374][296]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-00.01.16:375][296]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-00.01.16:375][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-00.01.16:377][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-00.01.16:377][296]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-00.01.16:377][296]LogInit: FAudioDevice initialized.
+[2023.03.22-00.01.16:377][296]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.22-00.01.16:400][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.22-00.01.16:405][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.21-18.01.16
+[2023.03.22-00.01.16:405][296]LogWorld: Bringing up level for play took: 0.003888
+[2023.03.22-00.01.16:406][296]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.03.22-00.01.16:409][296]PIE: Server logged in
+[2023.03.22-00.01.16:410][296]PIE: Play in editor total start time 0.146 seconds.
+[2023.03.22-00.01.16:596][296]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-00.01.18:667][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-00.01.18:667][382]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.22-00.01.18:668][382]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-00.01.18:668][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-00.01.18:687][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-00.01.18:731][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-00.01.18:753][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-00.01.18:753][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-00.01.18:755][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-00.01.18:764][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.22-00.01.18:841][383]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.03.22-00.09.03:390][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.22-00.09.03:414][574]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto77B5DBE90412FBAD8DAEE8093C8D3F422.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2023.03.22-00.09.03:416][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2023.03.22-00.09.03:416][574]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.03.22-00.09.03:417][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.22-00.09.03:440][574]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.22-00.09.03:462][574]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.22-00.09.03:462][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.22-00.09.03:483][574]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto787DA3F0446E00C851CE4DF991523CD58.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto7.uasset'
+[2023.03.22-00.09.03:484][574]LogFileHelpers: Auto-saving content packages took 0.068
+[2023.03.22-00.25.40:803][374]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
