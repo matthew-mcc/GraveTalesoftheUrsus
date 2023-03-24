@@ -47805,3 +47805,1555 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.24-20.46.27:877][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.03.24-20.46.27:883][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2023.03.24-20.46.27:944][150]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.03.24-20.54.31:969][336]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-20.54.31:975][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-20.54.31:976][336]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 8:54:31 a.m.)
+[2023.03.24-20.54.31:976][336]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.54.31:990][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014035s)
+[2023.03.24-20.54.31:991][336]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-20.54.31:991][336]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2023.03.24-20.54.31:991][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015624s)
+[2023.03.24-20.54.32:020][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.03.24-20.54.32:039][336]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-20.54.32:039][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-20.54.32:039][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-20.54.32:039][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-20.54.32:039][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-20.54.32:039][336]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-20.54.32:044][336]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-20.54.32:044][336]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-20.54.32:060][336]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-20.54.32:060][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-20.54.32:060][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-20.54.32:060][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-20.54.32:062][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-20.54.32:062][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-20.54.32:062][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-20.54.32:063][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-20.54.32:063][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-20.54.32:063][336]LogInit: FAudioDevice initialized.
+[2023.03.24-20.54.32:063][336]LogAudio: Display: Audio Device (ID: 45) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-20.54.32:070][336]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-20.54.32:073][336]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-14.54.32
+[2023.03.24-20.54.32:073][336]LogWorld: Bringing up level for play took: 0.002124
+[2023.03.24-20.54.32:073][336]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2023.03.24-20.54.32:076][336]PIE: Server logged in
+[2023.03.24-20.54.32:077][336]PIE: Play in editor total start time 0.102 seconds.
+[2023.03.24-20.54.56:622][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.54.56:622][723]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.54.56:623][723]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-20.54.56:623][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.54.56:637][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-20.54.56:649][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.54.56:668][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.54.56:668][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.54.56:669][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.54.56:676][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.03.24-20.54.56:733][724]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.03.24-20.55.04:275][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.24-20.55.05:640][384]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-20.55.05:647][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-20.55.05:647][384]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 8:55:05 a.m.)
+[2023.03.24-20.55.05:647][384]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.55.05:660][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013558s)
+[2023.03.24-20.55.05:662][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-20.55.05:662][384]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2023.03.24-20.55.05:662][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015148s)
+[2023.03.24-20.55.05:689][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.24-20.55.05:694][384]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-20.55.05:694][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-20.55.05:695][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-20.55.05:695][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-20.55.05:695][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-20.55.05:695][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-20.55.05:695][384]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-20.55.05:702][384]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-20.55.05:702][384]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-20.55.05:721][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-20.55.05:721][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-20.55.05:723][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-20.55.05:723][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-20.55.05:723][384]LogInit: FAudioDevice initialized.
+[2023.03.24-20.55.05:723][384]LogAudio: Display: Audio Device (ID: 46) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-20.55.05:735][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-20.55.05:737][384]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-14.55.05
+[2023.03.24-20.55.05:738][384]LogWorld: Bringing up level for play took: 0.001959
+[2023.03.24-20.55.05:738][384]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2023.03.24-20.55.05:740][384]PIE: Server logged in
+[2023.03.24-20.55.05:741][384]PIE: Play in editor total start time 0.095 seconds.
+[2023.03.24-20.55.05:780][385]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.138966 > MaxSimulationTimeStep (0.050) for 'Boss_BP_2', movement 'Walking'
+[2023.03.24-20.55.31:352][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.55.31:352][914]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.55.31:352][914]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-20.55.31:353][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.55.31:368][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-20.55.31:388][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.55.31:407][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.55.31:408][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.55.31:409][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.55.31:417][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.24-20.55.31:479][915]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.03.24-20.55.48:664][257]BlueprintLog: New page: Compile Boss_BP
+[2023.03.24-20.55.48:676][257]LogBlueprint: Error: [AssetLog] C:\GIT\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\AI\Ai_Controller_Tree\Boss_BP.uasset: [Compiler] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2023.03.24-20.55.48:720][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.24-20.56.25:708][443]BlueprintLog: New page: Compile Boss_BP
+[2023.03.24-20.56.25:762][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.03.24-20.56.26:280][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ai_Controller_Tree/Boss_BP" FILE="../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset" SILENT=true
+[2023.03.24-20.56.26:336][477]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BPA3715F4941FA00FDF744819242455ECD.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.24-20.56.26:352][477]AssetCheck: New page: Asset Save: Boss_BP
+[2023.03.24-20.56.26:352][477]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.24-20.56.27:138][539]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-20.56.27:146][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-20.56.27:146][539]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 8:56:27 a.m.)
+[2023.03.24-20.56.27:170][539]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.56.27:181][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011636s)
+[2023.03.24-20.56.27:183][539]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-20.56.27:183][539]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2023.03.24-20.56.27:183][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013604s)
+[2023.03.24-20.56.27:224][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.03.24-20.56.27:227][539]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-20.56.27:227][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-20.56.27:227][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-20.56.27:227][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-20.56.27:227][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-20.56.27:227][539]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-20.56.27:231][539]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-20.56.27:231][539]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-20.56.27:246][539]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-20.56.27:247][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-20.56.27:247][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-20.56.27:247][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-20.56.27:247][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-20.56.27:247][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-20.56.27:247][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-20.56.27:249][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-20.56.27:249][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-20.56.27:249][539]LogInit: FAudioDevice initialized.
+[2023.03.24-20.56.27:249][539]LogAudio: Display: Audio Device (ID: 47) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-20.56.27:260][539]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-20.56.27:262][539]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-14.56.27
+[2023.03.24-20.56.27:262][539]LogWorld: Bringing up level for play took: 0.002061
+[2023.03.24-20.56.27:263][539]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2023.03.24-20.56.27:265][539]PIE: Server logged in
+[2023.03.24-20.56.27:266][539]PIE: Play in editor total start time 0.121 seconds.
+[2023.03.24-20.56.56:070][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.56.56:070][376]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.56.56:070][376]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-20.56.56:071][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.56.56:082][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-20.56.56:101][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.56.56:120][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-20.56.56:120][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.56.56:122][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.56.56:125][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.56.56:128][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.24-20.56.56:190][377]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.03.24-20.57.01:094][754]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-20.57.01:100][754]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.24-20.57.01:101][754]LogPlayLevel: [PlayLevel] Compiling Boss_BP before play...
+[2023.03.24-20.57.01:168][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.24-20.57.01:171][754]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2023.03.24-20.57.01:171][754]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 8:57:01 a.m.)
+[2023.03.24-20.57.01:171][754]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.57.01:182][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010673s)
+[2023.03.24-20.57.01:183][754]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-20.57.01:183][754]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2023.03.24-20.57.01:183][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012215s)
+[2023.03.24-20.57.01:211][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.03.24-20.57.01:211][754]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-20.57.01:211][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-20.57.01:211][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-20.57.01:212][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-20.57.01:212][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-20.57.01:212][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-20.57.01:212][754]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-20.57.01:217][754]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-20.57.01:217][754]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-20.57.01:241][754]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-20.57.01:242][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-20.57.01:242][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-20.57.01:242][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-20.57.01:242][754]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-20.57.01:242][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-20.57.01:242][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-20.57.01:244][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-20.57.01:244][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-20.57.01:244][754]LogInit: FAudioDevice initialized.
+[2023.03.24-20.57.01:244][754]LogAudio: Display: Audio Device (ID: 48) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-20.57.01:258][754]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-20.57.01:261][754]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-14.57.01
+[2023.03.24-20.57.01:261][754]LogWorld: Bringing up level for play took: 0.002226
+[2023.03.24-20.57.01:262][754]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2023.03.24-20.57.01:264][754]PIE: Server logged in
+[2023.03.24-20.57.01:265][754]PIE: Play in editor total start time 0.166 seconds.
+[2023.03.24-20.57.22:749][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.57.22:749][839]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-20.57.22:749][839]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-20.57.22:750][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.57.22:762][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-20.57.22:782][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.57.22:801][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-20.57.22:801][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.57.22:803][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-20.57.22:809][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.24-20.57.22:869][840]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.03.24-20.58.03:857][417]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.24-20.58.03:866][417]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.24-20.58.03:869][417]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-20.58.03:870][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-20.58.21:541][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-20.59.16:061][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.03.24-20.59.16:093][407]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto6104EB3754161B56D1C0FA499C58E1185.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.03.24-20.59.16:096][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.065
+[2023.03.24-20.59.16:096][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.03.24-20.59.16:097][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.24-20.59.16:112][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.24-20.59.16:124][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.24-20.59.16:124][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.24-20.59.16:183][407]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto6F8A2AF2C4856BCBBE38EE6B815911899.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto6.uasset'
+[2023.03.24-20.59.16:185][407]LogFileHelpers: Auto-saving content packages took 0.089
+[2023.03.24-21.01.07:744][918]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.01.07:751][918]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.01.07:755][918]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.01.07:755][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.01.10:874][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.24-21.04.50:039][572]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.24-21.04.50:046][572]LogSlate: Window 'Boss_BP' being destroyed
+[2023.03.24-21.04.50:082][572]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.04.50:082][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.04.54:645][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.06.05:972][991]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.06.06:038][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.03.24-21.07.23:226][296]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.07.23:240][296]LogBlueprint: Warning: [AssetLog] C:\GIT\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Can't parse default value 'ObjectTypeQuery1' for  Object Types . Property: Object Types.
+[2023.03.24-21.07.23:285][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.03.24-21.08.20:573][830]LogEditorTransaction: Undo Add Node
+[2023.03.24-21.09.22:697][425]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.09.22:759][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.24-21.09.34:094][649]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.09.34:150][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.03.24-21.09.34:627][672]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter7ADE28314D328F7D963D5F930C435246.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.09.34:648][672]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.09.34:649][672]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.09.35:160][709]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.09.35:166][709]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.09.35:197][709]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.09.35:197][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.09.35:791][762]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.09.35:798][762]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.24-21.09.35:799][762]LogPlayLevel: [PlayLevel] Compiling Boss_BP before play...
+[2023.03.24-21.09.35:855][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.03.24-21.09.35:857][762]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2023.03.24-21.09.35:857][762]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:09:35 a.m.)
+[2023.03.24-21.09.35:897][762]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.09.35:908][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011115s)
+[2023.03.24-21.09.35:909][762]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.09.35:909][762]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2023.03.24-21.09.35:909][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012706s)
+[2023.03.24-21.09.35:932][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.24-21.09.35:933][762]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.09.35:933][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.09.35:933][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.09.35:933][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.09.35:933][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.09.35:934][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.09.35:934][762]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.09.35:941][762]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.09.35:941][762]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.09.35:962][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.09.35:962][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.09.35:964][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.09.35:964][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.09.35:964][762]LogInit: FAudioDevice initialized.
+[2023.03.24-21.09.35:964][762]LogAudio: Display: Audio Device (ID: 49) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.09.35:975][762]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.09.35:978][762]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.09.35
+[2023.03.24-21.09.35:978][762]LogWorld: Bringing up level for play took: 0.001989
+[2023.03.24-21.09.35:978][762]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2023.03.24-21.09.35:981][762]PIE: Server logged in
+[2023.03.24-21.09.35:982][762]PIE: Play in editor total start time 0.184 seconds.
+[2023.03.24-21.09.45:764][930]Cmd: CAMERA ALIGN
+[2023.03.24-21.09.45:764][930]Can't find target actor or component.
+[2023.03.24-21.09.47:268][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.09.47:268][106]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.09.47:268][106]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.09.47:268][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.09.47:281][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.09.47:300][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.09.47:316][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.09.47:316][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.09.47:318][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.09.47:323][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.24-21.09.47:369][107]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.03.24-21.09.58:465][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.11.30:718][396]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.11.30:778][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.24-21.11.31:123][408]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterB88BD4184EA4E6A99FFC2DAAD842C05A.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.11.31:143][408]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.11.31:143][408]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.11.32:455][526]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.11.32:462][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.11.32:462][526]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:11:32 a.m.)
+[2023.03.24-21.11.32:484][526]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.11.32:498][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013436s)
+[2023.03.24-21.11.32:499][526]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.11.32:499][526]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2023.03.24-21.11.32:499][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015326s)
+[2023.03.24-21.11.32:550][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.24-21.11.32:553][526]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.11.32:553][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.11.32:553][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.11.32:553][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.11.32:553][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.11.32:553][526]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.11.32:558][526]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.11.32:558][526]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.11.32:577][526]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.11.32:577][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.11.32:577][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.11.32:577][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.11.32:578][526]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.11.32:578][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.11.32:578][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.11.32:579][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.11.32:579][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.11.32:579][526]LogInit: FAudioDevice initialized.
+[2023.03.24-21.11.32:579][526]LogAudio: Display: Audio Device (ID: 50) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.11.32:594][526]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.11.32:597][526]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.11.32
+[2023.03.24-21.11.32:597][526]LogWorld: Bringing up level for play took: 0.002259
+[2023.03.24-21.11.32:597][526]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2023.03.24-21.11.32:600][526]PIE: Server logged in
+[2023.03.24-21.11.32:601][526]PIE: Play in editor total start time 0.14 seconds.
+[2023.03.24-21.11.36:095][940]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.36:095][940]Can't find target actor or component.
+[2023.03.24-21.11.36:752][ 18]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.36:752][ 18]Can't find target actor or component.
+[2023.03.24-21.11.41:740][615]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.41:740][615]Can't find target actor or component.
+[2023.03.24-21.11.42:342][687]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.42:342][687]Can't find target actor or component.
+[2023.03.24-21.11.42:607][719]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.42:607][719]Can't find target actor or component.
+[2023.03.24-21.11.42:824][745]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.42:824][745]Can't find target actor or component.
+[2023.03.24-21.11.43:017][768]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.43:017][768]Can't find target actor or component.
+[2023.03.24-21.11.43:616][840]Cmd: CAMERA ALIGN
+[2023.03.24-21.11.43:616][840]Can't find target actor or component.
+[2023.03.24-21.11.44:546][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.11.44:546][947]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.11.44:546][947]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.11.44:546][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.11.44:554][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.11.44:574][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.11.44:593][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.11.44:594][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.11.44:595][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.11.44:598][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.11.44:601][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.03.24-21.11.44:646][948]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.03.24-21.12.12:428][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.03.24-21.12.12:448][280]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto7251D044D4B67F681D4A8889F3E456F39.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2023.03.24-21.12.12:451][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.044
+[2023.03.24-21.12.12:451][280]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.03.24-21.12.12:451][280]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([4] browsable assets)...
+[2023.03.24-21.12.12:462][280]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.24-21.12.12:472][280]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.24-21.12.12:472][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.24-21.12.12:526][280]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto778491B454C0B3E1AB01F51B643804510.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto7.uasset'
+[2023.03.24-21.12.12:527][280]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.03.24-21.13.07:679][803]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.24-21.14.05:757][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:757][346]Warning: execute: Parse error while importing property values (PinName = execute).
+[2023.03.24-21.14.05:757][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:757][346]Warning: then: Parse error while importing property values (PinName = then).
+[2023.03.24-21.14.05:757][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:757][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:757][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:757][346]Warning: NewRotation: Parse error while importing property values (PinName = NewRotation).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: Current: Parse error while importing property values (PinName = Current).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: DeltaTime: Parse error while importing property values (PinName = DeltaTime).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: InterpSpeed: Parse error while importing property values (PinName = InterpSpeed).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: ReturnValue_Roll: Parse error while importing property values (PinName = ReturnValue_Roll).
+[2023.03.24-21.14.05:758][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:758][346]Warning: ReturnValue_Pitch: Parse error while importing property values (PinName = ReturnValue_Pitch).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: ReturnValue_Yaw: Parse error while importing property values (PinName = ReturnValue_Yaw).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: InRot: Parse error while importing property values (PinName = InRot).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Start: Parse error while importing property values (PinName = Start).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.05:759][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:759][346]Warning: Target_X: Parse error while importing property values (PinName = Target_X).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: Target_Y: Parse error while importing property values (PinName = Target_Y).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: Target_Z: Parse error while importing property values (PinName = Target_Z).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue_X: Parse error while importing property values (PinName = ReturnValue_X).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue_Y: Parse error while importing property values (PinName = ReturnValue_Y).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue_Z: Parse error while importing property values (PinName = ReturnValue_Z).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:760][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:760][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: A: Parse error while importing property values (PinName = A).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: B: Parse error while importing property values (PinName = B).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.05:761][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:761][346]Warning: Hit Actor: Parse error while importing property values (PinName = Hit Actor).
+[2023.03.24-21.14.05:762][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:762][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.05:762][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:762][346]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.05:762][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:762][346]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.05:762][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:762][346]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.05:762][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.05:762][346]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.05:766][346]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.24-21.14.05:814][346]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.048 s
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: 
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: Ensure condition failed: ThisPin [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EdGraphUtilities.cpp] [Line: 38]
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: 
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: Stack: 
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea2588438 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea18e2405 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea18e1d29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea1aa796e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea18cc3ea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea3834dc0 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea3834b86 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea380ca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffebadc9657 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffebae16e4a UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffea81c2258 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffebace2112 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffebad45087 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ffebad38756 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff0211bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff021092b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff0211e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff02104410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff3623e7e8 USER32.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff3623e229 USER32.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff0211fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff673917621 UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff673930fcc UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff6739310ba UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff6739340dd UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff673945984 UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007ff67394853a UE4Editor.exe!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff34e97614 KERNEL32.DLL!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: [Callstack] 0x00007fff366e26a1 ntdll.dll!UnknownFunction []
+[2023.03.24-21.14.05:814][346]LogOutputDevice: Error: 
+[2023.03.24-21.14.05:818][346]LogStats:                SubmitErrorReport -  0.000 s
+[2023.03.24-21.14.07:533][346]LogStats:                    SendNewReport -  1.715 s
+[2023.03.24-21.14.07:533][346]LogStats:             FDebug::EnsureFailed -  1.767 s
+[2023.03.24-21.14.07:554][346]LogBlueprint: Warning: [ThirdPersonCharacter] RecreatePinForVariable: 'Hit Actor' pin not found
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: execute: Parse error while importing property values (PinName = execute).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: then: Parse error while importing property values (PinName = then).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: NewRotation: Parse error while importing property values (PinName = NewRotation).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.07:558][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:558][346]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: Current: Parse error while importing property values (PinName = Current).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: DeltaTime: Parse error while importing property values (PinName = DeltaTime).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: InterpSpeed: Parse error while importing property values (PinName = InterpSpeed).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: ReturnValue_Roll: Parse error while importing property values (PinName = ReturnValue_Roll).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: ReturnValue_Pitch: Parse error while importing property values (PinName = ReturnValue_Pitch).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: ReturnValue_Yaw: Parse error while importing property values (PinName = ReturnValue_Yaw).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: InRot: Parse error while importing property values (PinName = InRot).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.07:559][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:559][346]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: Start: Parse error while importing property values (PinName = Start).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: Target_X: Parse error while importing property values (PinName = Target_X).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: Target_Y: Parse error while importing property values (PinName = Target_Y).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: Target_Z: Parse error while importing property values (PinName = Target_Z).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: ReturnValue_X: Parse error while importing property values (PinName = ReturnValue_X).
+[2023.03.24-21.14.07:560][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:560][346]Warning: ReturnValue_Y: Parse error while importing property values (PinName = ReturnValue_Y).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: ReturnValue_Z: Parse error while importing property values (PinName = ReturnValue_Z).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: A: Parse error while importing property values (PinName = A).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: B: Parse error while importing property values (PinName = B).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:561][346]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.07:561][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: Hit Actor: Parse error while importing property values (PinName = Hit Actor).
+[2023.03.24-21.14.07:562][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.07:562][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.07:562][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.07:562][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.07:562][346]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.07:562][346]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.07:567][346]LogBlueprint: Warning: [ThirdPersonCharacter] RecreatePinForVariable: 'Hit Actor' pin not found
+[2023.03.24-21.14.07:850][346]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.24-21.14.07:860][346]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.14.07:860][346]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.14.09:632][439]LogEditorTransaction: Undo Paste clipboard contents
+[2023.03.24-21.14.11:483][545]LogEditorTransaction: Undo Paste clipboard contents
+[2023.03.24-21.14.12:631][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: execute: Parse error while importing property values (PinName = execute).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: then: Parse error while importing property values (PinName = then).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: NewRotation: Parse error while importing property values (PinName = NewRotation).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:632][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:632][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Current: Parse error while importing property values (PinName = Current).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: DeltaTime: Parse error while importing property values (PinName = DeltaTime).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: InterpSpeed: Parse error while importing property values (PinName = InterpSpeed).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: ReturnValue_Roll: Parse error while importing property values (PinName = ReturnValue_Roll).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: ReturnValue_Pitch: Parse error while importing property values (PinName = ReturnValue_Pitch).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: ReturnValue_Yaw: Parse error while importing property values (PinName = ReturnValue_Yaw).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: InRot: Parse error while importing property values (PinName = InRot).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Start: Parse error while importing property values (PinName = Start).
+[2023.03.24-21.14.12:633][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:633][626]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: Target_X: Parse error while importing property values (PinName = Target_X).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: Target_Y: Parse error while importing property values (PinName = Target_Y).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: Target_Z: Parse error while importing property values (PinName = Target_Z).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue_X: Parse error while importing property values (PinName = ReturnValue_X).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue_Y: Parse error while importing property values (PinName = ReturnValue_Y).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue_Z: Parse error while importing property values (PinName = ReturnValue_Z).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:634][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:634][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: A: Parse error while importing property values (PinName = A).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: B: Parse error while importing property values (PinName = B).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: Hit Actor: Parse error while importing property values (PinName = Hit Actor).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:635][626]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.14.12:635][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:636][626]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.12:636][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:636][626]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.12:636][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:636][626]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.14.12:636][626]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.14.12:636][626]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.14.12:661][626]LogBlueprint: Warning: [ThirdPersonCharacter] RecreatePinForVariable: 'Hit Actor' pin not found
+[2023.03.24-21.15.17:040][425]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.15.17:680][444]LogEditorTransaction: Undo Add Node
+[2023.03.24-21.15.18:289][467]LogEditorTransaction: Undo Move Nodes
+[2023.03.24-21.15.18:966][500]LogEditorTransaction: Undo Paste clipboard contents
+[2023.03.24-21.16.25:591][832]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.16.25:598][832]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.16.25:602][832]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.16.25:602][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.16.38:625][156]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/PlayerCharacter/Anim_BP_Player.Anim_BP_Player
+[2023.03.24-21.16.38:635][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.24-21.18.14:645][960]LogSlate: Window 'Anim_BP_Player' being destroyed
+[2023.03.24-21.18.14:651][960]LogSlate: Window 'Anim_BP_Player' being destroyed
+[2023.03.24-21.18.14:664][960]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.18.14:664][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.18.14:672][960]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.18.14:672][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.18.14:785][960]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.18.14:785][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.18.19:041][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.18.37:009][118]LogEditorTransaction: Undo Delete current selection
+[2023.03.24-21.18.37:543][135]LogEditorTransaction: Undo Delete current selection
+[2023.03.24-21.18.38:056][164]LogEditorTransaction: Undo Delete current selection
+[2023.03.24-21.19.18:011][814]LogEditorTransaction: Undo Promote To Variable
+[2023.03.24-21.19.22:092][ 39]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.19.25:234][124]LogSlate: Window 'Delete Variable' being destroyed
+[2023.03.24-21.21.42:749][777]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.21.42:765][777]LogBlueprint: Warning: [AssetLog] C:\GIT\GraveTalesoftheUrsus\GraveTalesoftheUrsus\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Can't parse default value 'ObjectTypeQuery1' for  Object Types . Property: Object Types.
+[2023.03.24-21.21.42:831][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.03.24-21.22.00:459][500]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.22.00:467][500]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.22.00:471][500]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.22.00:471][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.01:191][564]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.22.01:198][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.22.01:198][564]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:22:01 a.m.)
+[2023.03.24-21.22.01:198][564]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.22.01:209][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011511s)
+[2023.03.24-21.22.01:211][564]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.22.01:211][564]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2023.03.24-21.22.01:211][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013094s)
+[2023.03.24-21.22.01:267][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.24-21.22.01:272][564]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.22.01:272][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.22.01:272][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.22.01:272][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.22.01:272][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.22.01:272][564]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.22.01:276][564]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.22.01:276][564]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.22.01:292][564]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.22.01:292][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.22.01:292][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.22.01:292][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.22.01:293][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.22.01:293][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.22.01:293][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.22.01:294][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.22.01:294][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.22.01:294][564]LogInit: FAudioDevice initialized.
+[2023.03.24-21.22.01:294][564]LogAudio: Display: Audio Device (ID: 51) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.22.01:305][564]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.22.01:308][564]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.22.01
+[2023.03.24-21.22.01:308][564]LogWorld: Bringing up level for play took: 0.002040
+[2023.03.24-21.22.01:309][564]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2023.03.24-21.22.01:311][564]PIE: Server logged in
+[2023.03.24-21.22.01:312][564]PIE: Play in editor total start time 0.115 seconds.
+[2023.03.24-21.22.04:135][898]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.04:135][898]Can't find target actor or component.
+[2023.03.24-21.22.04:660][961]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.04:660][961]Can't find target actor or component.
+[2023.03.24-21.22.05:195][ 25]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.05:195][ 25]Can't find target actor or component.
+[2023.03.24-21.22.05:978][119]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.05:978][119]Can't find target actor or component.
+[2023.03.24-21.22.08:250][387]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.08:250][387]Can't find target actor or component.
+[2023.03.24-21.22.08:700][441]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.08:700][441]Can't find target actor or component.
+[2023.03.24-21.22.08:892][464]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.08:892][464]Can't find target actor or component.
+[2023.03.24-21.22.09:074][486]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.09:074][486]Can't find target actor or component.
+[2023.03.24-21.22.09:241][506]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.09:241][506]Can't find target actor or component.
+[2023.03.24-21.22.09:375][522]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.09:375][522]Can't find target actor or component.
+[2023.03.24-21.22.09:774][570]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.09:774][570]Can't find target actor or component.
+[2023.03.24-21.22.09:984][595]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.09:984][595]Can't find target actor or component.
+[2023.03.24-21.22.13:363][  0]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.13:363][  0]Can't find target actor or component.
+[2023.03.24-21.22.14:571][145]Cmd: CAMERA ALIGN
+[2023.03.24-21.22.14:571][145]Can't find target actor or component.
+[2023.03.24-21.22.15:135][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.22.15:135][209]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.22.15:135][209]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.22.15:136][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.15:148][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.22.15:168][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.15:185][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.22.15:185][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.22.15:186][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.22.15:190][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.22.15:193][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.24-21.22.15:239][210]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.03.24-21.22.17:181][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.22.21:058][608]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.22.21:064][608]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.22.21:068][608]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.22.21:069][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.40:694][532]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.22.53:209][810]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.22.53:223][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.22.53:223][810]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:22:53 a.m.)
+[2023.03.24-21.22.53:223][810]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.22.53:237][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013903s)
+[2023.03.24-21.22.53:239][810]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.22.53:239][810]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2023.03.24-21.22.53:239][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016089s)
+[2023.03.24-21.22.53:283][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.24-21.22.53:289][810]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.22.53:289][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.22.53:289][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.22.53:290][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.22.53:290][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.22.53:290][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.22.53:290][810]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.22.53:295][810]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.22.53:295][810]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.22.53:314][810]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.22.53:314][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.22.53:314][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.22.53:314][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.22.53:315][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.22.53:315][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.22.53:315][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.22.53:316][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.22.53:316][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.22.53:316][810]LogInit: FAudioDevice initialized.
+[2023.03.24-21.22.53:317][810]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.22.53:334][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.22.53:337][810]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.22.53
+[2023.03.24-21.22.53:338][810]LogWorld: Bringing up level for play took: 0.003316
+[2023.03.24-21.22.53:339][810]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2023.03.24-21.22.53:342][810]PIE: Server logged in
+[2023.03.24-21.22.53:343][810]PIE: Play in editor total start time 0.121 seconds.
+[2023.03.24-21.22.54:275][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.22.54:276][863]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.22.54:276][863]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.22.54:276][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.54:323][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.22.54:377][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.22.54:398][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.22.54:398][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.22.54:399][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.22.54:403][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.22.54:407][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.24-21.22.54:515][864]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.03.24-21.22.55:832][954]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.22.55:838][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.22.55:838][954]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:22:55 a.m.)
+[2023.03.24-21.22.55:838][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.22.55:850][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011679s)
+[2023.03.24-21.22.55:851][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.22.55:851][954]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2023.03.24-21.22.55:851][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013023s)
+[2023.03.24-21.22.55:876][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.24-21.22.55:878][954]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.22.55:878][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.22.55:878][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.22.55:878][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.22.55:878][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.22.55:878][954]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.22.55:882][954]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.22.55:882][954]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.22.55:898][954]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.22.55:898][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.22.55:898][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.22.55:898][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.22.55:899][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.22.55:899][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.22.55:899][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.22.55:900][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.22.55:900][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.22.55:900][954]LogInit: FAudioDevice initialized.
+[2023.03.24-21.22.55:900][954]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.22.55:912][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.22.55:915][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.22.55
+[2023.03.24-21.22.55:915][954]LogWorld: Bringing up level for play took: 0.002198
+[2023.03.24-21.22.55:915][954]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2023.03.24-21.22.55:918][954]PIE: Server logged in
+[2023.03.24-21.22.55:919][954]PIE: Play in editor total start time 0.082 seconds.
+[2023.03.24-21.23.00:437][484]Cmd: CAMERA ALIGN
+[2023.03.24-21.23.00:437][484]Can't find target actor or component.
+[2023.03.24-21.23.00:987][550]Cmd: CAMERA ALIGN
+[2023.03.24-21.23.00:987][550]Can't find target actor or component.
+[2023.03.24-21.23.03:945][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.23.03:945][899]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.23.03:945][899]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.23.03:945][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.23.03:978][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.23.04:024][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.23.04:044][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.23.04:045][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.23.04:046][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.23.04:052][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.24-21.23.04:106][900]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.03.24-21.23.39:535][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.03.24-21.23.39:553][718]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto889A8ADF543140E435ADA76A651E549B6.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2023.03.24-21.23.39:556][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2023.03.24-21.23.39:556][718]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2023.03.24-21.23.39:556][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([4] browsable assets)...
+[2023.03.24-21.23.39:567][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.03.24-21.23.39:576][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.03.24-21.23.39:576][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.03.24-21.23.39:629][718]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter_Auto8DE691F41418F5DB57F77868AF1818BAF.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto8.uasset'
+[2023.03.24-21.23.39:630][718]LogFileHelpers: Auto-saving content packages took 0.074
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: execute: Parse error while importing property values (PinName = execute).
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: then: Parse error while importing property values (PinName = then).
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: NewRotation: Parse error while importing property values (PinName = NewRotation).
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:855][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:855][881]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: Current: Parse error while importing property values (PinName = Current).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: DeltaTime: Parse error while importing property values (PinName = DeltaTime).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: InterpSpeed: Parse error while importing property values (PinName = InterpSpeed).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: ReturnValue_Roll: Parse error while importing property values (PinName = ReturnValue_Roll).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: ReturnValue_Pitch: Parse error while importing property values (PinName = ReturnValue_Pitch).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: ReturnValue_Yaw: Parse error while importing property values (PinName = ReturnValue_Yaw).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:856][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:856][881]Warning: InRot: Parse error while importing property values (PinName = InRot).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Roll: Parse error while importing property values (PinName = Roll).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Pitch: Parse error while importing property values (PinName = Pitch).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Yaw: Parse error while importing property values (PinName = Yaw).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Start: Parse error while importing property values (PinName = Start).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Target: Parse error while importing property values (PinName = Target).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Target_X: Parse error while importing property values (PinName = Target_X).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Target_Y: Parse error while importing property values (PinName = Target_Y).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: Target_Z: Parse error while importing property values (PinName = Target_Z).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:857][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:857][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue_X: Parse error while importing property values (PinName = ReturnValue_X).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue_Y: Parse error while importing property values (PinName = ReturnValue_Y).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue_Z: Parse error while importing property values (PinName = ReturnValue_Z).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: A: Parse error while importing property values (PinName = A).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: B: Parse error while importing property values (PinName = B).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:858][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:858][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: Hit Actor: Parse error while importing property values (PinName = Hit Actor).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2023.03.24-21.23.46:859][881]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.23.46:859][881]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2023.03.24-21.24.19:775][583]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.24.19:775][583]Warning: self: Parse error while importing property values (PinName = self).
+[2023.03.24-21.24.19:775][583]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.24.19:775][583]Warning: A: Parse error while importing property values (PinName = A).
+[2023.03.24-21.24.19:775][583]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.24.19:775][583]Warning: B: Parse error while importing property values (PinName = B).
+[2023.03.24-21.24.19:775][583]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2023.03.24-21.24.19:775][583]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.03.24-21.26.42:413][539]LogEditorTransaction: Undo Add Node
+[2023.03.24-21.26.42:832][547]LogEditorTransaction: Undo Create Pin Link
+[2023.03.24-21.26.43:050][549]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.26.43:243][550]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.26.43:874][577]LogEditorTransaction: Undo Add Node
+[2023.03.24-21.26.44:475][602]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.26.44:974][618]LogEditorTransaction: Undo Move Node
+[2023.03.24-21.26.45:599][644]LogEditorTransaction: Undo Delete current selection
+[2023.03.24-21.26.46:196][669]LogEditorTransaction: Undo Delete current selection
+[2023.03.24-21.27.28:043][606]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.27.28:050][606]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.27.28:080][606]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.27.28:080][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.27.28:804][659]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.27.28:810][659]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.24-21.27.28:812][659]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2023.03.24-21.27.28:966][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.03.24-21.27.28:970][659]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2023.03.24-21.27.28:971][659]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:27:28 a.m.)
+[2023.03.24-21.27.29:019][659]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.27.29:035][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016001s)
+[2023.03.24-21.27.29:036][659]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.27.29:036][659]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2023.03.24-21.27.29:036][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017587s)
+[2023.03.24-21.27.29:061][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.24-21.27.29:061][659]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.27.29:061][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.27.29:061][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.27.29:062][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.27.29:062][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.27.29:062][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.27.29:062][659]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.27.29:067][659]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.27.29:067][659]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.27.29:088][659]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.27.29:089][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.27.29:089][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.27.29:089][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.27.29:090][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.27.29:090][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.27.29:090][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.27.29:091][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.27.29:091][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.27.29:091][659]LogInit: FAudioDevice initialized.
+[2023.03.24-21.27.29:091][659]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.27.29:107][659]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.27.29:109][659]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.27.29
+[2023.03.24-21.27.29:110][659]LogWorld: Bringing up level for play took: 0.001976
+[2023.03.24-21.27.29:110][659]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2023.03.24-21.27.29:112][659]PIE: Server logged in
+[2023.03.24-21.27.29:113][659]PIE: Play in editor total start time 0.304 seconds.
+[2023.03.24-21.27.30:521][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.32:672][ 80]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.32:672][ 80]Can't find target actor or component.
+[2023.03.24-21.27.33:641][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.36:230][506]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.36:230][506]Can't find target actor or component.
+[2023.03.24-21.27.36:765][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.37:365][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.37:682][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.38:491][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.44:827][536]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.44:827][536]Can't find target actor or component.
+[2023.03.24-21.27.45:693][640]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.45:693][640]Can't find target actor or component.
+[2023.03.24-21.27.46:428][728]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.46:428][728]Can't find target actor or component.
+[2023.03.24-21.27.47:287][831]Cmd: CAMERA ALIGN
+[2023.03.24-21.27.47:287][831]Can't find target actor or component.
+[2023.03.24-21.27.48:155][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.27.58:410][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.27.58:410][161]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.27.58:410][161]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.27.58:411][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.27.58:424][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.27.58:470][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.27.58:486][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.27.58:487][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.27.58:488][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.27.58:495][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.03.24-21.27.58:554][162]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.03.24-21.28.00:715][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.28.21:611][367]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.28.21:772][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.24-21.28.22:051][368]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterFD2BD936430618456B8FE3A47BB9E04B.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.28.22:067][368]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.28.22:067][368]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.28.22:991][414]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterE2EB646E4A2E09632D54FAA92FDF5373.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.28.23:028][414]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.28.23:028][414]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.28.23:585][447]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.28.23:592][447]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.28.23:597][447]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.28.23:597][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.28.24:225][492]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.28.24:231][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.28.24:231][492]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:28:24 a.m.)
+[2023.03.24-21.28.24:231][492]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.28.24:244][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012841s)
+[2023.03.24-21.28.24:245][492]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.28.24:245][492]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2023.03.24-21.28.24:245][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014060s)
+[2023.03.24-21.28.24:284][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.24-21.28.24:286][492]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.28.24:286][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.28.24:286][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.28.24:287][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.28.24:287][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.28.24:287][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.28.24:287][492]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.28.24:291][492]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.28.24:291][492]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.28.24:307][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.28.24:307][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.28.24:309][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.28.24:309][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.28.24:309][492]LogInit: FAudioDevice initialized.
+[2023.03.24-21.28.24:309][492]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.28.24:320][492]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.28.24:323][492]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.28.24
+[2023.03.24-21.28.24:323][492]LogWorld: Bringing up level for play took: 0.002198
+[2023.03.24-21.28.24:324][492]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2023.03.24-21.28.24:326][492]PIE: Server logged in
+[2023.03.24-21.28.24:327][492]PIE: Play in editor total start time 0.097 seconds.
+[2023.03.24-21.28.28:374][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.28.45:443][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.28.50:829][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.28.50:829][649]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.28.50:829][649]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.28.50:830][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.28.50:839][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.28.50:885][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.28.50:902][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.28.50:902][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.28.50:903][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.28.50:906][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.28.50:910][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.24-21.28.50:971][650]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.03.24-21.29.07:267][725]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.29.19:060][303]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.29.19:231][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.24-21.29.19:809][317]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterE8407E144076958A1540FE9933473E6C.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.29.19:827][317]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.29.19:827][317]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.29.20:112][332]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.29.20:119][332]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.29.20:123][332]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.29.20:123][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.21:076][405]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.29.21:082][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.29.21:082][405]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:29:21 a.m.)
+[2023.03.24-21.29.21:082][405]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.29.21:096][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013498s)
+[2023.03.24-21.29.21:097][405]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.29.21:097][405]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2023.03.24-21.29.21:097][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014702s)
+[2023.03.24-21.29.21:159][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.24-21.29.21:161][405]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.29.21:161][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.29.21:161][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.29.21:162][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.29.21:162][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.29.21:162][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.29.21:162][405]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.29.21:165][405]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.29.21:165][405]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.29.21:181][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.29.21:181][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.29.21:183][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.29.21:183][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.29.21:183][405]LogInit: FAudioDevice initialized.
+[2023.03.24-21.29.21:183][405]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.29.21:193][405]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.29.21:195][405]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.29.21
+[2023.03.24-21.29.21:196][405]LogWorld: Bringing up level for play took: 0.002162
+[2023.03.24-21.29.21:196][405]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2023.03.24-21.29.21:198][405]PIE: Server logged in
+[2023.03.24-21.29.21:199][405]PIE: Play in editor total start time 0.117 seconds.
+[2023.03.24-21.29.23:901][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.29.24:978][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.29.24:978][850]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.29.24:978][850]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.29.24:978][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.24:992][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.29.25:036][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.25:053][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.29.25:054][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.29.25:055][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.29.25:058][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.29.25:062][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.24-21.29.25:115][851]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.03.24-21.29.26:035][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.29.29:550][ 60]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.29.29:724][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.03.24-21.29.30:334][ 75]LogSavePackage: Moving '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter5684D8614E18AB6F220385B01909A7A2.tmp' to '../../../../GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.24-21.29.30:350][ 75]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.24-21.29.30:350][ 75]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.29.31:033][109]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.29.31:039][109]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.29.31:043][109]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.29.31:043][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.31:726][151]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.29.31:733][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.29.31:733][151]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:29:31 a.m.)
+[2023.03.24-21.29.31:768][151]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.29.31:780][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012452s)
+[2023.03.24-21.29.31:781][151]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.29.31:781][151]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2023.03.24-21.29.31:781][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013787s)
+[2023.03.24-21.29.31:822][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.24-21.29.31:824][151]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.29.31:824][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.29.31:824][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.29.31:825][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.29.31:825][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.29.31:825][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.29.31:825][151]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.29.31:829][151]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.29.31:829][151]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.29.31:846][151]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.29.31:846][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.29.31:846][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.29.31:846][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.29.31:847][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.29.31:847][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.29.31:847][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.29.31:848][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.29.31:848][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.29.31:848][151]LogInit: FAudioDevice initialized.
+[2023.03.24-21.29.31:848][151]LogAudio: Display: Audio Device (ID: 57) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.29.31:862][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.29.31:864][151]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.29.31
+[2023.03.24-21.29.31:865][151]LogWorld: Bringing up level for play took: 0.002139
+[2023.03.24-21.29.31:865][151]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2023.03.24-21.29.31:867][151]PIE: Server logged in
+[2023.03.24-21.29.31:868][151]PIE: Play in editor total start time 0.136 seconds.
+[2023.03.24-21.29.34:103][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.29.41:108][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.29.41:108][246]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.29.41:108][246]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.29.41:109][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.41:116][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.29.41:160][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.29.41:177][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.29.41:177][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.29.41:178][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.29.41:181][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.29.41:185][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.24-21.29.41:239][247]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.03.24-21.30.36:550][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.30.55:999][ 13]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.24-21.30.56:181][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.24-21.30.56:939][ 37]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.30.56:946][ 37]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.30.56:950][ 37]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.30.56:950][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.30.57:786][101]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.30.57:792][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.30.57:793][101]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:30:57 a.m.)
+[2023.03.24-21.30.57:826][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.30.57:837][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011660s)
+[2023.03.24-21.30.57:838][101]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.30.57:839][101]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2023.03.24-21.30.57:839][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013249s)
+[2023.03.24-21.30.57:902][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.24-21.30.57:905][101]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.30.57:905][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.30.57:905][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.30.57:905][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.30.57:905][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.30.57:906][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.30.57:906][101]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.30.57:909][101]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.30.57:909][101]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.30.57:925][101]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.30.57:925][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.30.57:925][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.30.57:925][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.30.57:926][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.30.57:926][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.30.57:926][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.30.57:928][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.30.57:928][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.30.57:928][101]LogInit: FAudioDevice initialized.
+[2023.03.24-21.30.57:928][101]LogAudio: Display: Audio Device (ID: 58) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.30.57:936][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.30.57:939][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.30.57
+[2023.03.24-21.30.57:939][101]LogWorld: Bringing up level for play took: 0.002389
+[2023.03.24-21.30.57:940][101]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2023.03.24-21.30.57:942][101]PIE: Server logged in
+[2023.03.24-21.30.57:943][101]PIE: Play in editor total start time 0.152 seconds.
+[2023.03.24-21.30.58:800][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.31.03:111][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.31.04:640][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.31.11:064][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.31.16:990][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.31.21:337][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.31.21:337][891]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.31.21:337][891]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.31.21:338][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.31.21:346][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.31.21:391][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.31.21:408][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.31.21:408][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.31.21:409][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.31.21:412][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.31.21:416][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.24-21.31.21:473][892]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.03.24-21.31.22:316][957]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.24-21.31.49:811][295]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.31.49:820][295]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.24-21.31.49:855][295]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.31.49:855][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.31.50:450][339]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.24-21.31.50:456][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.24-21.31.50:456][339]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 24, 2023, 9:31:50 a.m.)
+[2023.03.24-21.31.50:456][339]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.31.50:467][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011149s)
+[2023.03.24-21.31.50:469][339]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.24-21.31.50:469][339]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2023.03.24-21.31.50:469][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012744s)
+[2023.03.24-21.31.50:526][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.24-21.31.50:530][339]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.24-21.31.50:530][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.24-21.31.50:530][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.24-21.31.50:531][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.24-21.31.50:531][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.24-21.31.50:531][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.24-21.31.50:531][339]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.24-21.31.50:534][339]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.24-21.31.50:534][339]LogAudioMixer: Display: 1: FrontRight
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.24-21.31.50:550][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.24-21.31.50:550][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.24-21.31.50:551][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.24-21.31.50:551][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.24-21.31.50:551][339]LogInit: FAudioDevice initialized.
+[2023.03.24-21.31.50:551][339]LogAudio: Display: Audio Device (ID: 59) registered with world 'ThirdPersonExampleMap'.
+[2023.03.24-21.31.50:564][339]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.24-21.31.50:566][339]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.24-15.31.50
+[2023.03.24-21.31.50:566][339]LogWorld: Bringing up level for play took: 0.002110
+[2023.03.24-21.31.50:567][339]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2023.03.24-21.31.50:569][339]PIE: Server logged in
+[2023.03.24-21.31.50:570][339]PIE: Play in editor total start time 0.115 seconds.
+[2023.03.24-21.31.53:081][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.01:578][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.02:174][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.02:740][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.03:266][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.04:017][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.24-21.32.09:836][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.32.09:836][634]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.24-21.32.09:836][634]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.24-21.32.09:836][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.32.09:847][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.24-21.32.09:892][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.24-21.32.09:909][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.24-21.32.09:909][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.32.09:910][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.24-21.32.09:913][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.24-21.32.09:917][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.24-21.32.09:973][635]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.03.24-21.32.20:288][124]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.24-21.32.39:787][343]LogEditorTransaction: Undo Rename Node
+[2023.03.24-21.32.40:269][357]LogEditorTransaction: Undo Collapses selected nodes into a single node
