@@ -2344,3 +2344,427 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.28-03.48.37:350][623]LogEditorViewport: Clicking on Component (LMB): ChildActorComponent (ChildActor)
 [2023.03.28-03.48.38:939][787]Cmd: SELECT NONE
 [2023.03.28-03.48.39:590][863]Cmd: SELECT NONE
+[2023.03.28-03.49.14:471][190]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RootBoneAnims/Running_Anim.Running_Anim
+[2023.03.28-03.49.14:478][190]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.03.28-03.49.14:488][190]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.28-03.49.14:559][190]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.28-03.49.14:642][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-03.49.14:643][190]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.03.28-03.49.15:020][190]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-03.49.18:708][484]LogSlate: Window 'Running_Anim' being destroyed
+[2023.03.28-03.49.18:714][484]LogSlate: Window 'Running_Anim' being destroyed
+[2023.03.28-03.49.18:744][484]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.49.18:744][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.18:749][484]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.49.18:750][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.18:787][484]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.49.18:787][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.37:961][564]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Paladin_J_Nordstrom.Paladin_J_Nordstrom
+[2023.03.28-03.49.37:970][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-03.49.38:315][564]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2023.03.28-03.49.39:522][651]LogSlate: Window 'Paladin_J_Nordstrom' being destroyed
+[2023.03.28-03.49.39:536][651]LogSlate: Window 'Paladin_J_Nordstrom' being destroyed
+[2023.03.28-03.49.39:565][651]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.49.39:565][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.42:722][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.28-03.49.49:683][928]LogSlate: Window 'Replace References?' being destroyed
+[2023.03.28-03.49.49:687][928]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Running; and then delete them.
+
+Are you sure?
+[2023.03.28-03.49.49:688][928]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-03.49.50:216][928]LogAnimation: Warning: AnimBP Anim_BP_Player_C is incompatible with skeleton Running_Skeleton, removing AnimBP from actor.
+[2023.03.28-03.49.50:216][928]LogAnimation: Warning: AnimBP Anim_BP_Player_C is incompatible with skeleton Running_Skeleton, removing AnimBP from actor.
+[2023.03.28-03.49.50:218][928]LogAnimation: Warning: AnimBP Anim_BP_Player_C is incompatible with skeleton Running_Skeleton, removing AnimBP from actor.
+[2023.03.28-03.49.50:218][928]LogAnimation: Warning: AnimBP Anim_BP_Player_C is incompatible with skeleton Running_Skeleton, removing AnimBP from actor.
+[2023.03.28-03.49.50:231][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.28-03.49.51:685][928]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-03.49.51:755][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Paladin_J_Nordstrom" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Paladin_J_Nordstrom.uasset" SILENT=true
+[2023.03.28-03.49.51:756][928]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_NordstromC9F8BB1B4F66C154C57531BAA85B7DB8.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Paladin_J_Nordstrom.uasset'
+[2023.03.28-03.49.51:877][928]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter231E55EA4FF50F1868BDEC99BB60E8FC.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.28-03.49.51:883][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.28-03.49.51:900][928]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap86DD50ED4D7832FBE656278E81AC5288.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.28-03.49.51:912][928]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.034
+[2023.03.28-03.49.51:924][928]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-03.49.51:924][928]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.49.51:924][928]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.28-03.49.51:924][928]LogContentValidation: Display: Validating ObjectRedirector /Game/PlayerCharacter/Paladin_J_Nordstrom.Paladin_J_Nordstrom
+[2023.03.28-03.49.53:337][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.28-03.49.53:354][ 73]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap6FC21B2641CC8DA2B1C90C8211F7934F.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.28-03.49.53:381][ 73]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.03.28-03.49.53:381][ 73]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.28-03.49.53:923][133]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-03.49.53:929][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-03.49.53:929][133]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 27, 2023, 3:49:53 p.m.)
+[2023.03.28-03.49.53:965][133]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.28-03.49.53:975][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010621s)
+[2023.03.28-03.49.53:977][133]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.28-03.49.53:977][133]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2023.03.28-03.49.53:977][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011930s)
+[2023.03.28-03.49.53:981][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.28-03.49.53:981][133]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-03.49.53:981][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-03.49.53:981][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-03.49.53:982][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-03.49.53:982][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-03.49.53:982][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-03.49.53:982][133]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-03.49.53:985][133]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-03.49.53:985][133]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-03.49.53:991][133]LogAudioMixer: Display: Using Audio Device Headphones (2- WH-1000XM3 Stereo)
+[2023.03.28-03.49.53:992][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-03.49.53:992][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-03.49.53:992][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-03.49.53:992][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-03.49.53:992][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-03.49.53:992][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-03.49.53:993][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-03.49.53:993][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-03.49.53:993][133]LogInit: FAudioDevice initialized.
+[2023.03.28-03.49.53:993][133]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.03.28-03.49.54:004][133]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.28-03.49.54:007][133]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.27-21.49.54
+[2023.03.28-03.49.54:007][133]LogWorld: Bringing up level for play took: 0.001607
+[2023.03.28-03.49.54:007][133]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.03.28-03.49.54:009][133]PIE: Warning: The widget 'BossHPBar_C' was already added to the screen.
+[2023.03.28-03.49.54:009][133]PIE: Server logged in
+[2023.03.28-03.49.54:010][133]PIE: Play in editor total start time 0.082 seconds.
+[2023.03.28-03.49.58:900][716]LogBlueprintUserMessages: [Boss_BP_2] Light
+[2023.03.28-03.49.59:815][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-03.49.59:816][821]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.28-03.49.59:816][821]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.49.59:816][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.59:822][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-03.49.59:824][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.49.59:827][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-03.49.59:828][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-03.49.59:829][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-03.49.59:832][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.28-03.49.59:952][822]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.28-03.50.01:464][966]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-03.50.01:469][966]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-03.50.13:015][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.50.13:239][266]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.03.28-03.50.14:040][266]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.28-03.50.14:177][267]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.28-03.50.28:702][528]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterF1DD15A84831083F4831EBB7858F482E.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.28-03.50.28:718][528]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.28-03.50.28:718][528]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.50.28:963][551]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.28-03.50.29:016][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.03.28-03.50.29:606][593]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterA0BE5DB941EE057546EEE38E2142EBE1.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.28-03.50.29:619][593]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.28-03.50.29:619][593]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.50.29:777][609]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.28-03.50.29:782][609]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.28-03.50.29:785][609]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.29:785][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.38:872][489]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RootBoneAnims/Running_Anim.Running_Anim
+[2023.03.28-03.50.38:886][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-03.50.39:354][489]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-03.50.40:035][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RootBoneAnims/Running_Anim" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim.uasset" SILENT=true
+[2023.03.28-03.50.40:041][525]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_AnimEE30E4174F6A241C317BE6889079D692.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim.uasset'
+[2023.03.28-03.50.40:056][525]AssetCheck: New page: Asset Save: Running_Anim
+[2023.03.28-03.50.40:056][525]LogContentValidation: Display: Validating AnimSequence /Game/RootBoneAnims/Running_Anim.Running_Anim
+[2023.03.28-03.50.43:903][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RootBoneAnims/Running_Anim" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim.uasset" SILENT=true
+[2023.03.28-03.50.43:909][845]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_Anim0CE733A94AD5C1B16A01EF8C4DF78C62.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim.uasset'
+[2023.03.28-03.50.43:920][845]AssetCheck: New page: Asset Save: Running_Anim
+[2023.03.28-03.50.43:920][845]LogContentValidation: Display: Validating AnimSequence /Game/RootBoneAnims/Running_Anim.Running_Anim
+[2023.03.28-03.50.44:646][906]LogSlate: Window 'Running_Anim' being destroyed
+[2023.03.28-03.50.44:651][906]LogSlate: Window 'Running_Anim' being destroyed
+[2023.03.28-03.50.44:675][906]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.44:675][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.44:688][906]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.44:688][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.44:729][906]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.44:729][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.47:496][128]LogContentBrowser: Deferred new asset file creation: Running_Anim_Montage
+[2023.03.28-03.50.47:524][128]LogContentBrowser: Creating deferred item: Running_Anim_Montage
+[2023.03.28-03.50.48:354][205]LogContentBrowser: Attempting asset rename: Running_Anim_Montage -> Running_Anim_Montage
+[2023.03.28-03.50.48:354][205]LogContentBrowser: End creating deferred item Running_Anim_Montage
+[2023.03.28-03.50.48:519][218]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/RootBoneAnims/Running_Anim_Montage.Running_Anim_Montage
+[2023.03.28-03.50.48:529][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-03.50.49:511][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RootBoneAnims/Running_Anim_Montage" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim_Montage.uasset" SILENT=true
+[2023.03.28-03.50.49:516][251]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_Anim_Montage5F5187864C719EB87ACCFA85A8A1690F.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim_Montage.uasset'
+[2023.03.28-03.50.49:530][251]AssetCheck: New page: Asset Save: Running_Anim_Montage
+[2023.03.28-03.50.49:530][251]LogContentValidation: Display: Validating AnimMontage /Game/RootBoneAnims/Running_Anim_Montage.Running_Anim_Montage
+[2023.03.28-03.50.50:169][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RootBoneAnims/Running_Anim_Montage" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim_Montage.uasset" SILENT=true
+[2023.03.28-03.50.50:171][296]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_Anim_MontageDC9D1C734E7C42852F050D917B8890C1.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/RootBoneAnims/Running_Anim_Montage.uasset'
+[2023.03.28-03.50.50:182][296]AssetCheck: New page: Asset Save: Running_Anim_Montage
+[2023.03.28-03.50.50:182][296]LogContentValidation: Display: Validating AnimMontage /Game/RootBoneAnims/Running_Anim_Montage.Running_Anim_Montage
+[2023.03.28-03.50.50:800][348]LogSlate: Window 'Running_Anim_Montage' being destroyed
+[2023.03.28-03.50.50:806][348]LogSlate: Window 'Running_Anim_Montage' being destroyed
+[2023.03.28-03.50.50:835][348]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.50:835][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.50:883][348]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.50.50:883][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.50.55:621][832]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.51.01:078][230]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.28-03.51.01:147][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.03.28-03.51.01:507][241]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.28-03.51.01:568][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.28-03.51.02:271][284]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter8CAFF58D4151F23DC665348065CC58FA.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.28-03.51.02:285][284]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.28-03.51.02:285][284]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.51.03:068][348]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.28-03.51.03:075][348]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.03.28-03.51.03:105][348]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.51.03:105][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.51.03:853][403]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-03.51.03:858][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-03.51.03:858][403]PIE: New page: PIE session: ThirdPersonExampleMap (Mar. 27, 2023, 3:51:03 p.m.)
+[2023.03.28-03.51.03:895][403]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.28-03.51.03:906][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010829s)
+[2023.03.28-03.51.03:907][403]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.28-03.51.03:907][403]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2023.03.28-03.51.03:907][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012301s)
+[2023.03.28-03.51.03:925][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.28-03.51.03:926][403]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-03.51.03:926][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-03.51.03:926][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-03.51.03:926][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-03.51.03:926][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-03.51.03:926][403]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-03.51.03:930][403]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-03.51.03:930][403]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-03.51.03:936][403]LogAudioMixer: Display: Using Audio Device Headphones (2- WH-1000XM3 Stereo)
+[2023.03.28-03.51.03:937][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-03.51.03:937][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-03.51.03:937][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-03.51.03:937][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-03.51.03:937][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-03.51.03:937][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-03.51.03:938][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-03.51.03:938][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-03.51.03:938][403]LogInit: FAudioDevice initialized.
+[2023.03.28-03.51.03:938][403]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.28-03.51.03:945][403]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.28-03.51.03:947][403]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.27-21.51.03
+[2023.03.28-03.51.03:948][403]LogWorld: Bringing up level for play took: 0.001702
+[2023.03.28-03.51.03:948][403]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.03.28-03.51.03:950][403]PIE: Warning: The widget 'BossHPBar_C' was already added to the screen.
+[2023.03.28-03.51.03:950][403]PIE: Server logged in
+[2023.03.28-03.51.03:951][403]PIE: Play in editor total start time 0.094 seconds.
+[2023.03.28-03.51.09:232][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.28-03.51.09:958][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Locked
+[2023.03.28-03.51.10:386][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-03.51.10:386][167]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.28-03.51.10:386][167]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-03.51.10:386][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.51.10:397][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-03.51.10:400][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-03.51.10:412][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-03.51.10:412][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-03.51.10:413][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-03.51.10:415][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-03.51.10:418][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.28-03.51.10:539][168]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.28-03.51.11:269][217]Cmd: SELECT NONE
+[2023.03.28-03.51.12:505][354]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-03.51.12:510][354]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-03.52.11:065][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__3__Anim67536942452834B8E59CF69E21547F78.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__Anim.uasset'
+[2023.03.28-03.52.11:083][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__3__Physi015BFDD44E8D228CD373808177FFF2DE.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__PhysicsAsset.uasset'
+[2023.03.28-03.52.11:085][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__3__Skele89C33A8F4FAABCDE0F1EDD85353CB9F2.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__Skeleton.uasset'
+[2023.03.28-03.52.11:135][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__3_49DB5291431CA9358468D4AB3425EE06.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3_.uasset'
+[2023.03.28-03.52.11:154][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__2__Anim37CEE98049EF5F0FFD33C48A0FCBDA2B.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__Anim.uasset'
+[2023.03.28-03.52.11:176][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__2__Physi9C428E7F4EB3E95F0E54599E1586914D.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__PhysicsAsset.uasset'
+[2023.03.28-03.52.11:179][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__2__SkeleA5B4424F4974C9FF5C6D288BCB777DFD.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__Skeleton.uasset'
+[2023.03.28-03.52.11:235][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__2_17E3FB644792A2552F3F1783DAEC86CB.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2_.uasset'
+[2023.03.28-03.52.11:257][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run__1__AnimF4D3000D4C5F5D3DB7F02F91254014F0.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__Anim.uasset'
+[2023.03.28-03.52.11:278][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run__1__PhysicsAsset274C8216447284A61F4E0D9A29A970D8.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__PhysicsAsset.uasset'
+[2023.03.28-03.52.11:280][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run__1__Skeleton0887200F41584A1811282C97DE82C991.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__Skeleton.uasset'
+[2023.03.28-03.52.11:336][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run__1_79073BEA4F5ABBC0BBACAEA22DACD8A8.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1_.uasset'
+[2023.03.28-03.52.11:355][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Idle_AnimE483A8E74AA0D3308E8CB5B83F5034C7.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_Anim.uasset'
+[2023.03.28-03.52.11:377][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Idle_PhysicsAsset4A701AC8472DA603B10C0F9B0A7BC709.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:379][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Idle_Skeleton6D7BDC1F433F1329C2B550B57B8CED1B.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_Skeleton.uasset'
+[2023.03.28-03.52.11:432][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_IdleF720BDEF4EB89D3FCBB4ED9FF01876D8.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Idle.uasset'
+[2023.03.28-03.52.11:454][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Breathing_Idle_AnimA16C5BAD45EAD7219165E380FD2AEA1F.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Breathing_Idle_Anim.uasset'
+[2023.03.28-03.52.11:472][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Breathing_Idle_PhysicsAssetBFB38A9044B251EC5C675496D1AEDD6D.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Breathing_Idle_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:474][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Breathing_Idle_Skeleton875F6B974FB7BD5BA8D636959A50F70F.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Breathing_Idle_Skeleton.uasset'
+[2023.03.28-03.52.11:495][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Breathing_Idle94C9261F4A7FC1EE96D334854368D33A.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Breathing_Idle.uasset'
+[2023.03.28-03.52.11:515][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_AnimEAAEADD84D33DC0A065A8BA71751516B.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running_Anim.uasset'
+[2023.03.28-03.52.11:536][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_PhysicsAsset5B5CFB9048BF169F14616C998DEA85FE.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:538][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_SkeletonB1E2CE9E4CDC8659C500F6B9D9730874.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running_Skeleton.uasset'
+[2023.03.28-03.52.11:552][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/RootBoneAnims/Running" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running.uasset" SILENT=true
+[2023.03.28-03.52.11:595][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/RunningF3E4F4E84B613609187B40B4E5E7650E.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running.uasset'
+[2023.03.28-03.52.11:615][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_Nordstrom_AnimB757EA354A21618EC70234898ADECA7F.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_Anim.uasset'
+[2023.03.28-03.52.11:637][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_Nordstrom_PhysicsAssetABAA1C7347034E559F8B95BAA871D894.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:640][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_Nordstrom_Skeleton941750B44543F45A5D9ACF969C375799.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_Skeleton.uasset'
+[2023.03.28-03.52.11:698][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_NordstromFF9CD03642FE52E2205F189C72AC8F48.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom.uasset'
+[2023.03.28-03.52.11:712][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/RootBoneAnims/Idle_Anim" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle_Anim.uasset" SILENT=true
+[2023.03.28-03.52.11:718][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Idle_AnimE4D1EF1C42D35A08269388952BD2E705.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle_Anim.uasset'
+[2023.03.28-03.52.11:735][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Idle_PhysicsAssetCE0CD22E492C8BADC51B78ABCB3D9446.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:738][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Idle_SkeletonF1ED5B3C4E8865471EAE63B15F70F758.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle_Skeleton.uasset'
+[2023.03.28-03.52.11:752][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/RootBoneAnims/Idle" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle.uasset" SILENT=true
+[2023.03.28-03.52.11:758][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/IdleF2618F9E47AFDB703A38E096D2138CEF.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Idle.uasset'
+[2023.03.28-03.52.11:777][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk_AnimEC7CC193498517D3D2D65889827F3F2D.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_Anim.uasset'
+[2023.03.28-03.52.11:794][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk_PhysicsAssetFA39A65A410FDDE153DEB294BAB7EAA3.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:796][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk_SkeletonAE2950974A0CA2506B723E93F8830C8D.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_Skeleton.uasset'
+[2023.03.28-03.52.11:817][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk0B8BC482464337E6C2052DAB63241996.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk.uasset'
+[2023.03.28-03.52.11:836][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk__1__AnimC301717843E521476264DD86CA66E64A.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__Anim.uasset'
+[2023.03.28-03.52.11:854][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk__1__PhysicsAsse25FB64054B1DBF5A6DDE68AABEC87DB3.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__PhysicsAsset.uasset'
+[2023.03.28-03.52.11:857][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk__1__SkeletonFE157D0B43BC2B86E577A5B844772DD3.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__Skeleton.uasset'
+[2023.03.28-03.52.11:880][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk__1_B9D067114C37804D104188B4FD18D668.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1_.uasset'
+[2023.03.28-03.52.11:899][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe_Anim8026C49F45F9C97BB6B843985D442EA8.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_Anim.uasset'
+[2023.03.28-03.52.11:920][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe_PhysicsAssetAC321CE240D34345D093DCADA48D72A4.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_PhysicsAsset.uasset'
+[2023.03.28-03.52.11:922][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe_Skeleton749B17D842C5FA3D8ACA868E624EE851.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_Skeleton.uasset'
+[2023.03.28-03.52.11:975][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe935D78AB470740A298858D8F8D2FB4C7.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe.uasset'
+[2023.03.28-03.52.11:995][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe__1__Anim759868454614900640981186781AF170.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__Anim.uasset'
+[2023.03.28-03.52.12:016][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe__1__PhysicsAs49F786324E09DF057BDD5A99E270D497.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__PhysicsAsset.uasset'
+[2023.03.28-03.52.12:019][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe__1__Skeleton3CED8AED4EB91486437C18AC2B4634E0.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__Skeleton.uasset'
+[2023.03.28-03.52.12:072][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe__1_C916CB3541580490BA8D20AF3D07FA01.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1_.uasset'
+[2023.03.28-03.52.12:093][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__2__AnimC2C14833452C4964E4B0B7B27D6079D5.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__Anim.uasset'
+[2023.03.28-03.52.12:114][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__2__PhysicsAss0D39827840AE06FFF7F2C4ADD9BEDC7E.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__PhysicsAsset.uasset'
+[2023.03.28-03.52.12:116][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__2__Skeleton895424FC4DE35DC91CC543B6E73956AB.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__Skeleton.uasset'
+[2023.03.28-03.52.12:174][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__2_0B1B413C488890B700C416BE5BC64AEC.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2_.uasset'
+[2023.03.28-03.52.12:231][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_RunCE73D355431187FB21F975BAADCFF1EF.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run.uasset'
+[2023.03.28-03.52.12:233][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_SkeletonD395FD754C2103CC93493C86EE130A4E.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Skeleton.uasset'
+[2023.03.28-03.52.12:257][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_PhysicsAsset4D39E2334BBE0881A95C25867C644645.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_PhysicsAsset.uasset'
+[2023.03.28-03.52.12:277][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_AnimDFB304354917DFB8F812C5A7DCD14D6E.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Anim.uasset'
+[2023.03.28-03.52.12:331][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__1_C6EC836942007EB3206263B1306B5CFB.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1_.uasset'
+[2023.03.28-03.52.12:333][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__1__Skeleton49A0017C4ECC712E40D8999FD02BF1A9.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__Skeleton.uasset'
+[2023.03.28-03.52.12:355][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__1__PhysicsAssCB3B1BF84CA79362F8BC16B20DE3DBD2.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__PhysicsAsset.uasset'
+[2023.03.28-03.52.12:374][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__1__Anim9B0FDFE442907651403015A5C732CAA0.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__Anim.uasset'
+[2023.03.28-03.52.12:393][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_Anim_Montage2A0DC6B24FD62786A90A4D8D0FBAF248.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/RootBoneAnims/Running_Anim_Montage.uasset'
+[2023.03.28-03.52.12:797][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.28-03.52.12:817][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.12:831][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.28-03.52.12:844][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.28-03.52.12:857][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.12:869][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.12:882][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-03.52.12:896][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.28-03.52.12:909][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.28-03.52.12:922][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.12:934][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.12:947][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-03.52.12:961][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.28-03.52.12:974][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.28-03.52.12:988][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:002][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:015][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:030][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:042][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.28-03.52.13:055][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.13:068][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.13:080][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:094][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:107][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:119][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:132][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.28-03.52.13:144][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-03.52.13:158][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:171][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:183][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:196][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:209][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.28-03.52.13:224][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:236][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.13:249][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.13:261][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:273][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.28-03.52.13:287][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:300][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:313][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-03.52.13:326][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:341][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:355][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-03.52.13:368][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-03.52.13:380][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:393][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:406][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.28-03.52.13:420][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:433][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-03.52.13:445][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:458][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:471][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.28-03.52.13:485][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.28-03.52.13:497][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:509][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:522][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.28-03.52.13:535][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.28-03.52.13:549][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:561][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-03.52.13:573][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:586][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.28-03.52.13:610][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.28-03.52.13:623][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-03.52.13:651][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Paladin_J_Nordstrom" FILE="C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Paladin_J_Nordstrom.uasset" SILENT=true
+[2023.03.28-03.52.13:652][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Paladin_J_NordstromBA578B4546FE0DD920776FAE007E4099.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Paladin_J_Nordstrom.uasset'
+[2023.03.28-03.52.13:714][710]LogSavePackage: Moving 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter2A087AF1433A6423FFA2398532E405D3.tmp' to 'C:/GIT/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.28-03.52.13:787][710]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__Anim.Great_Sword_Run_Strafe__3__Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__PhysicsAsset.Great_Sword_Run_Strafe__3__PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3__Skeleton.Great_Sword_Run_Strafe__3__Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__3_.Great_Sword_Run_Strafe__3_
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__Anim.Great_Sword_Run_Strafe__2__Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__PhysicsAsset.Great_Sword_Run_Strafe__2__PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2__Skeleton.Great_Sword_Run_Strafe__2__Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Strafe__2_.Great_Sword_Run_Strafe__2_
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__Anim.Great_Sword_Run__1__Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__PhysicsAsset.Great_Sword_Run__1__PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1__Skeleton.Great_Sword_Run__1__Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run__1_.Great_Sword_Run__1_
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_Anim.Great_Sword_Idle_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_PhysicsAsset.Great_Sword_Idle_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Idle_Skeleton.Great_Sword_Idle_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Idle.Great_Sword_Idle
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Breathing_Idle_Anim.Breathing_Idle_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Breathing_Idle_PhysicsAsset.Breathing_Idle_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Breathing_Idle_Skeleton.Breathing_Idle_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Breathing_Idle.Breathing_Idle
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Running_Anim.Running_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Running_PhysicsAsset.Running_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Running_Skeleton.Running_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Running.Running
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_Anim.Paladin_J_Nordstrom_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_PhysicsAsset.Paladin_J_Nordstrom_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom_Skeleton.Paladin_J_Nordstrom_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Paladin_J_Nordstrom.Paladin_J_Nordstrom
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Idle_Anim.Idle_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Idle_Skeleton.Idle_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Idle.Idle
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_Anim.Great_Sword_Walk_Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_PhysicsAsset.Great_Sword_Walk_PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk_Skeleton.Great_Sword_Walk_Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk.Great_Sword_Walk
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__Anim.Great_Sword_Walk__1__Anim
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__PhysicsAsset.Great_Sword_Walk__1__PhysicsAsset
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1__Skeleton.Great_Sword_Walk__1__Skeleton
+[2023.03.28-03.52.13:787][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Walk__1_.Great_Sword_Walk__1_
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_Anim.Great_Sword_Strafe_Anim
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_PhysicsAsset.Great_Sword_Strafe_PhysicsAsset
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe_Skeleton.Great_Sword_Strafe_Skeleton
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe.Great_Sword_Strafe
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__Anim.Great_Sword_Strafe__1__Anim
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__PhysicsAsset.Great_Sword_Strafe__1__PhysicsAsset
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1__Skeleton.Great_Sword_Strafe__1__Skeleton
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Strafe__1_.Great_Sword_Strafe__1_
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__Anim.Great_Sword_Slash__2__Anim
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__PhysicsAsset.Great_Sword_Slash__2__PhysicsAsset
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2__Skeleton.Great_Sword_Slash__2__Skeleton
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__2_.Great_Sword_Slash__2_
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run.Great_Sword_Run
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Skeleton.Great_Sword_Run_Skeleton
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_PhysicsAsset.Great_Sword_Run_PhysicsAsset
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Run_Anim.Great_Sword_Run_Anim
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1_.Great_Sword_Slash__1_
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__Skeleton.Great_Sword_Slash__1__Skeleton
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__PhysicsAsset.Great_Sword_Slash__1__PhysicsAsset
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/RootBoneAnims/Great_Sword_Slash__1__Anim.Great_Sword_Slash__1__Anim
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating ObjectRedirector /Game/PlayerCharacter/Paladin_J_Nordstrom.Paladin_J_Nordstrom
+[2023.03.28-03.52.13:788][710]LogContentValidation: Display: Validating AnimMontage /Game/PlayerCharacter/RootBoneAnims/Running_Anim_Montage.Running_Anim_Montage
