@@ -3850,3 +3850,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.28-05.20.18:645][706]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacter700F7B814A85F389CEEA9690E57FCAA8.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2023.03.28-05.20.18:659][706]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2023.03.28-05.20.18:659][706]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.28-05.20.43:864][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.28-05.20.43:877][854]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_Auto29D18682742BB859B8E05D1A1555EF547.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2023.03.28-05.20.43:879][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2023.03.28-05.20.43:879][854]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2023.03.28-05.20.43:879][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Ai_Controller_Tree/Boss_BP] ([2] browsable assets)...
+[2023.03.28-05.20.43:909][854]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP_C]
+[2023.03.28-05.20.43:926][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP]
+[2023.03.28-05.20.43:926][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Ai_Controller_Tree/Boss_BP]
+[2023.03.28-05.20.43:987][854]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP_Auto224683A5945727987C1D603AE3E1311CE.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/AI/Ai_Controller_Tree/Boss_BP_Auto2.uasset'
+[2023.03.28-05.20.43:989][854]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerCharacter/AnimBP_Player] ([2] browsable assets)...
+[2023.03.28-05.20.43:989][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter/AnimBP_Player]
+[2023.03.28-05.20.43:999][854]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/AnimBP_Player_Auto2C3D15F9E4AB39FD67D45959ED526B1F5.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Autosaves/Game/PlayerCharacter/AnimBP_Player_Auto2.uasset'
+[2023.03.28-05.20.44:000][854]LogFileHelpers: Auto-saving content packages took 0.121
+[2023.03.28-05.23.03:370][333]LogSlate: Window 'damagestate' being destroyed
+[2023.03.28-05.23.03:396][333]LogSlate: Window 'damagestate' being destroyed
+[2023.03.28-05.23.03:427][333]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-05.23.03:427][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-05.23.03:482][333]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-05.23.03:482][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-05.23.03:556][333]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.28-05.23.03:556][333]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-05.23.03:556][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-05.23.03:603][333]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.28-05.23.03:603][333]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-05.23.03:603][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-05.23.03:651][333]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-05.23.03:651][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-05.23.15:395][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.28-05.23.16:715][815]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-05.23.16:765][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/AnimBP_Player7D8AC05D4A0B2BEC38172A9ED8BA807B.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/AnimBP_Player.uasset'
+[2023.03.28-05.23.16:814][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP1C585ACE4C2E0A70DA0D0B809FB25302.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.03.28-05.23.16:844][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__2_60F4CF5D49C8EEDB7CE868AAC1A674DC.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run_Strafe__2_.uasset'
+[2023.03.28-05.23.16:871][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Run_Strafe__3_E88F06144CC359C7848E6B917C4550A8.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Run_Strafe__3_.uasset'
+[2023.03.28-05.23.16:897][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__1_A031F19647B180F9DB7BC8B110E97CC4.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Slash__1_.uasset'
+[2023.03.28-05.23.16:922][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash__2_51B15C124929FB16E4297D8B828094CB.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Slash__2_.uasset'
+[2023.03.28-05.23.16:947][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Slash_Montage7021D4C14D7DE3BDF446B380119A0396.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Slash_Montage.uasset'
+[2023.03.28-05.23.16:976][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_StrafeD4BB6B7D45C7A42B2242B2AB6E937E03.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Strafe.uasset'
+[2023.03.28-05.23.16:998][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Strafe__1_3C34660741A936F25BF304874B5BDA6D.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Strafe__1_.uasset'
+[2023.03.28-05.23.17:019][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk65B912C7473C72E03B3B6EB8BCE72110.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Walk.uasset'
+[2023.03.28-05.23.17:041][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Great_Sword_Walk__1_44BA0E7C436E4AE8E3A256914C4C6351.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Great_Sword_Walk__1_.uasset'
+[2023.03.28-05.23.17:072][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running4339C2234F9EBF949A92C6B86AA2920C.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Running.uasset'
+[2023.03.28-05.23.17:076][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Running_PhysicsAssetEB1845CB4347F5EFB39C62961EABF1D8.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/PlayerCharacter/Animations/Running_PhysicsAsset.uasset'
+[2023.03.28-05.23.17:093][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-05.23.17:108][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMapD596BBD04096CC9C84300CB71EA7F3F6.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.28-05.23.17:122][815]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.045
+[2023.03.28-05.23.17:161][815]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonExampleMap_BuiltData3E8A66C94E4A03319E3B2FB6283D1FDE.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.28-05.23.17:189][815]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-05.23.17:189][815]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.03.28-05.23.17:189][815]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.28-05.23.17:189][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Run_Strafe__2_.Great_Sword_Run_Strafe__2_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Run_Strafe__3_.Great_Sword_Run_Strafe__3_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Slash__1_.Great_Sword_Slash__1_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Slash__2_.Great_Sword_Slash__2_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Strafe__1_.Great_Sword_Strafe__1_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Strafe.Great_Sword_Strafe
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Walk__1_.Great_Sword_Walk__1_
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/Great_Sword_Walk.Great_Sword_Walk
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimBlueprint /Game/PlayerCharacter/AnimBP_Player.AnimBP_Player
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating AnimMontage /Game/PlayerCharacter/Animations/Great_Sword_Slash_Montage.Great_Sword_Slash_Montage
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/Animations/Running_PhysicsAsset.Running_PhysicsAsset
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/Animations/Running.Running
+[2023.03.28-05.23.17:190][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
