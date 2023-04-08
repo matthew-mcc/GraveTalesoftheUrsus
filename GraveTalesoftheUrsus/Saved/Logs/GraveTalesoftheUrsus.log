@@ -2364,3 +2364,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.08-01.42.22:237][208]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/GameOverWidgetF2C5CEC049C7DABD888A438C0E4A8A40.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/GameOverWidget.uasset'
 [2023.04.08-01.42.22:255][208]AssetCheck: New page: Asset Save: GameOverWidget
 [2023.04.08-01.42.22:255][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/AI/Ai_Controller_Tree/GameOverWidget.GameOverWidget
+[2023.04.08-01.42.50:477][386]LogSlate: Window 'GameOverWidget' being destroyed
+[2023.04.08-01.42.50:513][386]LogSlate: Window 'GameOverWidget' being destroyed
+[2023.04.08-01.42.50:517][386]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.42.50:517][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.42.50:638][386]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.08-01.42.50:638][386]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.42.50:638][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.42.50:735][386]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.42.50:735][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.42.50:741][386]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.42.50:741][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.42.51:914][426]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.08-01.42.51:919][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.08-01.42.51:919][426]PIE: New page: PIE session: Map (Apr. 7, 2023, 1:42:51 p.m.)
+[2023.04.08-01.42.51:919][426]LogPlayLevel: Creating play world package: /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.08-01.42.51:933][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012811s)
+[2023.04.08-01.42.51:934][426]LogAIModule: Creating AISystem for world Map
+[2023.04.08-01.42.51:934][426]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2023.04.08-01.42.51:934][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/STF/Pack03-LandscapePro/Maps/Map.Map to /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map (0.014001s)
+[2023.04.08-01.42.52:030][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.08-01.42.52:032][426]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.08-01.42.52:032][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.08-01.42.52:033][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.08-01.42.52:033][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.08-01.42.52:033][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.08-01.42.52:033][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.08-01.42.52:033][426]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.08-01.42.52:035][426]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.08-01.42.52:035][426]LogAudioMixer: Display: 1: FrontRight
+[2023.04.08-01.42.52:046][426]LogAudioMixer: Display: Using Audio Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2023.04.08-01.42.52:046][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.08-01.42.52:046][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.08-01.42.52:046][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.08-01.42.52:047][426]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.08-01.42.52:047][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.08-01.42.52:047][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.08-01.42.52:048][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.08-01.42.52:048][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.08-01.42.52:048][426]LogInit: FAudioDevice initialized.
+[2023.04.08-01.42.52:048][426]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map'.
+[2023.04.08-01.42.52:057][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.08-01.42.52:061][426]LogWorld: Bringing World /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.04.07-19.42.52
+[2023.04.08-01.42.52:062][426]LogWorld: Bringing up level for play took: 0.004284
+[2023.04.08-01.42.52:062][426]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.04.08-01.42.52:066][426]PIE: Warning: The widget 'BossHPBar_C' was already added to the screen.
+[2023.04.08-01.42.52:066][426]PIE: Server logged in
+[2023.04.08-01.42.52:067][426]PIE: Play in editor total start time 0.148 seconds.
+[2023.04.08-01.42.52:068][426]LogBlueprintUserMessages: [Boss_BP_8] Sequence for jump attack
+[2023.04.08-01.42.52:152][427]LogBlueprintUserMessages: [Boss_BP_8] Sequence for jump attack
+[2023.04.08-01.42.52:972][453]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.42.53:436][466]LogBlueprintUserMessages: [Boss_BP_8] 50
+[2023.04.08-01.42.54:944][505]LogBlueprintUserMessages: [Boss_BP_8] 100
+[2023.04.08-01.42.56:431][545]LogBlueprintUserMessages: [Boss_BP_8] 150
+[2023.04.08-01.42.57:919][586]LogBlueprintUserMessages: [Boss_BP_8] 200
+[2023.04.08-01.42.59:418][629]LogBlueprintUserMessages: [Boss_BP_8] 250
+[2023.04.08-01.43.00:931][675]LogBlueprintUserMessages: [Boss_BP_8] 300
+[2023.04.08-01.43.02:439][722]LogBlueprintUserMessages: [Boss_BP_8] 350
+[2023.04.08-01.43.03:933][769]LogBlueprintUserMessages: [Boss_BP_8] 400
+[2023.04.08-01.43.05:444][817]LogBlueprintUserMessages: [Boss_BP_8] 450
+[2023.04.08-01.43.05:602][822]LogBlueprintUserMessages: [Boss_BP_8] Medium
+[2023.04.08-01.43.06:927][863]LogBlueprintUserMessages: [Boss_BP_8] 300
+[2023.04.08-01.43.08:073][899]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.08:423][908]LogBlueprintUserMessages: [Boss_BP_8] 650
+[2023.04.08-01.43.08:859][923]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.09:950][958]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.10:361][972]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.11:146][998]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.11:670][ 16]LogBlueprintUserMessages: [Boss_BP_8] Medium
+[2023.04.08-01.43.11:863][ 22]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.12:967][ 58]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.13:369][ 71]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.14:112][ 95]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.15:202][131]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.15:650][145]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.16:686][178]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.17:427][201]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.20:016][282]LogNet: Browse: /Game/STF/Pack03-LandscapePro/Maps/Map
+[2023.04.08-01.43.20:016][282]LogLoad: LoadMap: /Game/STF/Pack03-LandscapePro/Maps/Map
+[2023.04.08-01.43.20:016][282]LogWorld: BeginTearingDown for /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.08-01.43.20:016][282]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.20:017][282]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.43.20:019][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.43.20:045][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-01.43.20:076][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.08-01.43.20:079][282]LogPlayLevel: Creating play world package: /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.08-01.43.20:096][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016221s)
+[2023.04.08-01.43.20:097][282]LogAIModule: Creating AISystem for world Map
+[2023.04.08-01.43.20:098][282]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2023.04.08-01.43.20:098][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/STF/Pack03-LandscapePro/Maps/Map.Map to /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map (0.018256s)
+[2023.04.08-01.43.20:098][282]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map'.
+[2023.04.08-01.43.20:098][282]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.08-01.43.20:103][282]LogWorld: Bringing World /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.04.07-19.43.20
+[2023.04.08-01.43.20:103][282]LogWorld: Bringing up level for play took: 0.004584
+[2023.04.08-01.43.20:106][282]PIE: Warning: The widget 'BossHPBar_C' was already added to the screen.
+[2023.04.08-01.43.20:107][282]LogLoad: Took 0.090709 seconds to LoadMap(/Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map)
+[2023.04.08-01.43.20:107][282]LogBlueprintUserMessages: [Boss_BP_8] Sequence for jump attack
+[2023.04.08-01.43.20:207][283]LogBlueprintUserMessages: [Boss_BP_8] Sequence for jump attack
+[2023.04.08-01.43.21:074][310]LogBlueprintUserMessages: [None] test
+[2023.04.08-01.43.21:534][322]LogBlueprintUserMessages: [Boss_BP_8] 50
+[2023.04.08-01.43.23:034][357]LogBlueprintUserMessages: [Boss_BP_8] 100
+[2023.04.08-01.43.23:064][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-01.43.23:064][357]LogWorld: BeginTearingDown for /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.08-01.43.23:065][357]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-01.43.23:067][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.43.23:164][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.08-01.43.23:168][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-01.43.23:188][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-01.43.23:188][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.08-01.43.23:190][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.08-01.43.23:193][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-01.43.23:196][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.04.08-01.43.23:296][358]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.04.08-01.43.24:338][378]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-01.43.24:403][378]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-01.43.34:402][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.08-01.43.41:782][573]LogSlate: Window 'Save Content' being destroyed
+[2023.04.08-01.43.41:796][573]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2023.04.08-01.43.41:796][573]PIE: Warning: PIE failed because map save was canceled
+[2023.04.08-01.43.43:154][601]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-01.43.43:214][601]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-01.43.44:374][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.04.08-01.43.46:615][626]LogSlate: Window 'Save Content' being destroyed
+[2023.04.08-01.43.46:812][626]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/Boss_BP8EA25E834C84AEA5DFC0F2A5C26522BC.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/AI/Ai_Controller_Tree/Boss_BP.uasset'
+[2023.04.08-01.43.46:833][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.08-01.43.46:922][626]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/MapD6BF6160423733355696ADAD4D16CE82.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/STF/Pack03-LandscapePro/Maps/Map.umap'
+[2023.04.08-01.43.46:935][626]LogFileHelpers: Saving map 'Map' took 0.121
+[2023.04.08-01.43.47:048][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.08-01.43.47:068][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.08-01.43.47:095][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.08-01.43.47:112][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.08-01.43.47:119][626]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.08-01.43.47:119][626]LogContentValidation: Display: Validating Blueprint /Game/AI/Ai_Controller_Tree/Boss_BP.Boss_BP
+[2023.04.08-01.43.47:119][626]LogContentValidation: Display: Validating World /Game/STF/Pack03-LandscapePro/Maps/Map.Map
+[2023.04.08-01.43.50:300][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.08-01.45.04:123][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.04.08-01.45.13:397][504]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.04.08-01.45.13:490][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.08-01.45.13:646][504]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.08-01.45.13:649][504]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.04.08-01.45.14:460][516]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterD6FC28464472BA0449349DB71BB11A37.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.04.08-01.45.14:475][516]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.04.08-01.45.14:475][516]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.04.08-01.46.14:557][699]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.04.08-01.46.14:655][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.08-01.46.14:817][699]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.08-01.46.14:821][699]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.04.08-01.46.15:413][707]LogSavePackage: Moving '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Saved/ThirdPersonCharacterD4970A904324975E1F461EB355416C41.tmp' to '../../../../../../Users/Kewan/Github/GraveTalesoftheUrsus/GraveTalesoftheUrsus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.04.08-01.46.15:427][707]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.04.08-01.46.15:427][707]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
