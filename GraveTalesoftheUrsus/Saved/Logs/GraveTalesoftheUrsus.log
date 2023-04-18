@@ -1386,3 +1386,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.18-23.22.56:137][436]AssetCheck: New page: Asset Save: Map
 [2023.04.18-23.22.56:138][436]LogContentValidation: Display: Validating World /Game/STF/Pack03-LandscapePro/Maps/Map.Map
 [2023.04.18-23.27.17:194][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.18-23.30.29:192][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.18-23.30.29:198][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.18-23.30.29:199][ 13]PIE: New page: PIE session: Map (Apr. 18, 2023, 11:30:29 a.m.)
+[2023.04.18-23.30.29:199][ 13]LogPlayLevel: Creating play world package: /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.18-23.30.29:218][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019193s)
+[2023.04.18-23.30.29:219][ 13]LogAIModule: Creating AISystem for world Map
+[2023.04.18-23.30.29:219][ 13]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2023.04.18-23.30.29:219][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/STF/Pack03-LandscapePro/Maps/Map.Map to /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map (0.020741s)
+[2023.04.18-23.30.29:238][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.04.18-23.30.29:240][ 13]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.18-23.30.29:240][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.18-23.30.29:240][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.18-23.30.29:240][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.18-23.30.29:240][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.18-23.30.29:240][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.18-23.30.29:244][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.18-23.30.29:244][ 13]LogAudioMixer: Display: 1: FrontRight
+[2023.04.18-23.30.29:260][ 13]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.18-23.30.29:261][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.18-23.30.29:262][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.18-23.30.29:262][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.18-23.30.29:262][ 13]LogInit: FAudioDevice initialized.
+[2023.04.18-23.30.29:262][ 13]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map'.
+[2023.04.18-23.30.29:275][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.18-23.30.29:282][ 13]LogWorld: Bringing World /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.04.18-17.30.29
+[2023.04.18-23.30.29:283][ 13]LogWorld: Bringing up level for play took: 0.006743
+[2023.04.18-23.30.29:283][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.04.18-23.30.29:287][ 13]PIE: Warning: The widget 'BossHPBar_C' was already added to the screen.
+[2023.04.18-23.30.29:288][ 13]PIE: Server logged in
+[2023.04.18-23.30.29:289][ 13]PIE: Play in editor total start time 0.091 seconds.
+[2023.04.18-23.30.31:009][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.18-23.30.31:009][145]LogWorld: BeginTearingDown for /Game/STF/Pack03-LandscapePro/Maps/UEDPIE_0_Map
+[2023.04.18-23.30.31:009][145]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.04.18-23.30.31:012][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.18-23.30.31:020][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.18-23.30.31:024][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.18-23.30.31:041][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.18-23.30.31:041][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.18-23.30.31:042][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.18-23.30.31:045][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.18-23.30.31:048][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.18-23.30.31:123][146]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.18-23.30.32:489][237]LogSlate: Window 'Message Log' being destroyed
+[2023.04.18-23.30.32:514][237]LogSlate: Window 'Message Log' being destroyed
